@@ -1,0 +1,1807 @@
+,company,model,year,fuel,doors,transmisions,motor,bodywork,km
+0,RAM,1500,2018,Nafta,4,Automática,5.7,Pick-Up,27618.0
+1,Jeep,Compass,2022,Nafta,5,Automática,2.4,SUV,500.0
+2,Land Rover,Discovery,2010,Diésel,4,Automática,2.7,SUV,156000.0
+3,Ford,Fiesta Kinetic Design,2015,Nafta,5,Manual,1.3,Hatchback,89000.0
+4,Peugeot,5008,2023,Nafta,5,Automática,2.0,Monovolumen,510.0
+5,Volkswagen,Golf,2016,Nafta,5,Automática,1.4,Sedán,65796.0
+6,Ford,Ranger,2021,Diésel,4,Automática,4.0,Pick-Up,41200.0
+7,Toyota,SW4,2018,Diésel,5,Automática,2.8,SUV,68000.0
+8,Toyota,SW4,2008,Diésel,5,Automática,3.0,SUV,190000.0
+9,Mercedes-Benz,Clase A,2013,Nafta,5,Manual,1.6,Hatchback,162080.0
+10,Chery,Tiggo,2018,Nafta,5,Automática,1.6,SUV,103000.0
+11,Volkswagen,Polo,2022,Nafta,5,Manual,1.6,Hatchback,111111.0
+12,Toyota,Etios,2015,Nafta,5,Manual,1.5,Hatchback,83000.0
+13,Peugeot,208,2018,Nafta,5,Manual,1.6,Hatchback,36000.0
+14,Volkswagen,Vento,2014,Nafta,4,Automática,2.0,Sedán,112000.0
+15,Chevrolet,S-10,2018,Diésel,4,Manual,2.8,Pick-Up,65000.0
+16,Toyota,Etios,2018,Nafta,5,Manual,1.5,Sedán,80000.0
+17,Chevrolet,Tracker,2017,Nafta,5,Automática,1.8,SUV,62500.0
+18,Toyota,Hilux,2017,Diésel,4,Manual,2.8,Pick-Up,170000.0
+19,Ford,Ecosport,2019,Nafta,5,Manual,1.5,SUV,61000.0
+20,Dodge,Journey,2018,Nafta,5,Manual,3.6,SUV,60000.0
+21,Nissan,Note,2016,Nafta,5,Manual,1.6,Hatchback,57000.0
+22,Volkswagen,Amarok,2014,Diésel,4,Manual,2.0,Pick-Up,145000.0
+23,Volkswagen,Amarok,2019,Diésel,4,Automática,2.0,Pick-Up,67000.0
+24,Peugeot,4008,2014,Nafta,5,Automática,2.0,SUV,89800.0
+25,Volkswagen,Amarok,2019,Diésel,4,Automática,2.0,Pick-Up,66500.0
+26,Volkswagen,Amarok,2014,Diésel,4,Manual,2.0,Pick-Up,144500.0
+27,Volkswagen,Amarok,2019,Diésel,4,Automática,2.0,Pick-Up,66408.0
+28,Citroën,C-Elysée,2017,Diésel,4,Manual,1.6,Sedán,68222.0
+29,Volkswagen,Amarok,2014,Diésel,4,Manual,2.0,Pick-Up,144411.0
+30,Volkswagen,Amarok,2014,Diésel,4,Manual,2.0,Pick-Up,144000.0
+31,Volkswagen,Amarok,2019,Diésel,4,Automática,2.0,Pick-Up,64000.0
+32,Volkswagen,Vento,2010,Diésel,4,Automática,2.0,Sedán,119000.0
+33,Volkswagen,Amarok,2014,Diésel,4,Manual,2.0,Pick-Up,144500.0
+34,Volkswagen,Amarok,2019,Diésel,4,Automática,2.0,Pick-Up,66500.0
+35,Mercedes-Benz,Clase A,2014,Nafta,5,Manual,1.6,Hatchback,52000.0
+36,Peugeot,308,2018,Nafta,5,Automática,1.6,Hatchback,52000.0
+37,Ford,Focus III,2019,Nafta,5,Manual,1.6,Hatchback,21000.0
+38,Renault,Captur,2019,Nafta,5,Manual,2.0,SUV,53000.0
+39,Peugeot,2008,2017,Nafta,5,Automática,1.6,SUV,42000.0
+40,Chevrolet,Tracker,2016,Nafta,5,Automática,1.8,SUV,59000.0
+41,Volkswagen,Fox,2016,Nafta,5,Manual,1.6,Hatchback,89500.0
+42,Chevrolet,Onix,2017,Nafta,5,Manual,1.4,Hatchback,64500.0
+43,Fiat,500,2014,Nafta,3,Automática,1.4,Sedán,111991.0
+44,Toyota,Corolla,2019,Nafta,4,Manual,1.8,Sedán,10000.0
+45,Mercedes-Benz,Clase E,2014,Nafta,4,Automática,2.1,Sedán,129681.0
+46,Mercedes-Benz,Clase E,2019,Nafta,4,Automática,3.0,Sedán,18594.0
+47,Ford,Fiesta Kinetic Design,2014,Nafta,5,Automática,1.6,Hatchback,120000.0
+48,Fiat,Cronos,2022,Nafta,4,Automática,1.8,Sedán,15000.0
+49,Volkswagen,Amarok,2021,Diésel,4,Automática,3.0,Pick-Up,70000.0
+50,Volkswagen,Amarok,2019,Diésel,4,Automática,2.0,Pick-Up,49000.0
+51,Ford,Fiesta Kinetic Design,2011,Nafta,5,Manual,1.6,Hatchback,94000.0
+52,Ford,Mondeo,2019,Nafta,4,Automática,2.0,Sedán,69000.0
+53,Renault,Logan,2014,Nafta,4,Manual,1.6,Sedán,77000.0
+54,Volkswagen,Gol Trend,2018,Nafta,5,Manual,1.6,Hatchback,79000.0
+55,Volkswagen,Gol Trend,2017,Nafta,5,Manual,1.6,Hatchback,39000.0
+56,Peugeot,208,2017,Nafta,5,Manual,1.5,Hatchback,50000.0
+57,Renault,Sandero,2017,Nafta,5,Manual,1.6,Hatchback,49000.0
+58,Peugeot,208,2018,Nafta,5,Manual,1.6,Hatchback,59000.0
+59,Mercedes-Benz,Vito,2019,Diésel,2,Manual,1.6,Furgón,79000.0
+60,Toyota,Corolla,2018,Nafta,4,Automática,1.8,Sedán,67000.0
+61,Honda,HR-V,2016,Nafta,5,Automática,1.8,SUV,89000.0
+62,Chevrolet,Onix,2020,Nafta,5,Manual,1.0,Hatchback,39000.0
+63,Citroën,C4 Cactus,2018,Nafta,5,Automática,1.2,SUV,55000.0
+64,Volkswagen,Amarok,2013,Diésel,4,Manual,2.0,Pick-Up,189000.0
+65,Renault,Duster Oroch,2019,Nafta,4,Manual,1.6,SUV,62000.0
+66,Chevrolet,Prisma,2020,Nafta,4,Manual,1.4,Sedán,55000.0
+67,Chevrolet,Cruze,2019,Nafta,4,Automática,1.4,Sedán,52000.0
+68,DS,DS3 Crossback,2021,Nafta,5,Automática,1.2,Hatchback,15000.0
+69,Audi,A1,2016,Nafta,3,Automática,1.4,Hatchback,46000.0
+70,Citroën,C4 Lounge,2014,Nafta,4,Automática,1.6,Sedán,109000.0
+71,Ford,Ranger,2015,Diésel,4,Automática,3.2,Pick-Up,125000.0
+72,Audi,A1,2011,Nafta,3,Automática,1.4,Hatchback,99000.0
+73,Fiat,Punto,2012,Nafta,5,Manual,1.6,Hatchback,98000.0
+74,Volkswagen,Amarok,2017,Diésel,4,Automática,2.0,Pick-Up,134000.0
+75,Nissan,March,2018,Nafta,5,Manual,1.6,Hatchback,46000.0
+76,Peugeot,207,2012,Nafta,2,Manual,1.6,Hatchback,99000.0
+77,Jeep,Renegade,2017,Nafta,5,Manual,1.8,SUV,62000.0
+78,Volkswagen,Amarok,2021,Diésel,4,Automática,3.0,Pick-Up,70000.0
+79,Volkswagen,Golf,2017,Nafta,5,Automática,1.4,Hatchback,69000.0
+80,Peugeot,Partner,2015,Diésel,3,Manual,1.6,Furgón,45000.0
+81,Volkswagen,Amarok,2020,Diésel,4,Manual,2.0,Pick-Up,79000.0
+82,Chevrolet,Equinox,2020,Nafta,5,Automática,1.5,SUV,36000.0
+83,Chevrolet,Onix,2015,Nafta,5,Manual,1.4,Hatchback,97000.0
+84,Audi,A5,2013,Nafta,2,Automática,3.0,Coupé,86000.0
+85,Volkswagen,Gol Trend,2015,Nafta,3,Manual,1.6,Hatchback,78000.0
+86,Chevrolet,Spin,2014,Nafta/GNC,5,Manual,1.8,Monovolumen,98000.0
+87,Hyundai,Tucson,2010,Diésel,5,Manual,2.0,SUV,130000.0
+88,Fiat,500,2012,Nafta,3,Manual,1.4,Hatchback,79000.0
+89,Volkswagen,Amarok,2019,Diésel,4,Manual,2.0,Pick-Up,86600.0
+90,Renault,Duster,2012,Nafta,5,Manual,1.6,SUV,95000.0
+91,Kia,K2500,2019,Diésel,2,Manual,2.5,Light Truck,6000.0
+92,Nissan,Note,2016,Nafta,5,Manual,1.6,Hatchback,57000.0
+93,Ford,Ecosport,2013,Nafta,5,Manual,1.6,SUV,210000.0
+94,Toyota,SW4,2019,Diésel,5,Automática,2.8,SUV,84500.0
+95,Ford,Fiesta,2012,Nafta,4,Manual,1.6,Sedán,46502.0
+96,BMW,Serie 3,2016,Nafta,4,Manual,3.0,Sedán,67000.0
+97,Ford,Ranger,2021,Diésel,4,Automática,3.2,Pick-Up,18000.0
+98,Volkswagen,Vento,2019,Nafta,4,Automática,1.4,Sedán,47000.0
+99,Chevrolet,Corsa Classic,1999,Nafta,4,Manual,1.6,Sedán,64000.0
+100,Fiat,Strada,2020,Nafta,3,Manual,1.4,Pick-Up,55000.0
+101,Citroën,Aircross,2017,Nafta,5,Manual,1.6,Hatchback,60000.0
+102,Renault,Kwid,2021,Nafta,5,Manual,1.0,Hatchback,37000.0
+103,Fiat,Cronos,2019,Nafta,4,Manual,1.3,Sedán,30800.0
+104,Peugeot,208,2022,Nafta,5,Manual,1.2,Hatchback,1320.0
+105,Honda,HR-V,2018,Nafta,5,Automática,1.8,SUV,68000.0
+106,Renault,Fluence,2015,Nafta,4,Manual,1.6,Sedán,77500.0
+107,Toyota,Hilux,2015,Diésel,4,Manual,2.5,Pick-Up,169000.0
+108,Volkswagen,Suran,2011,Nafta,5,Manual,1.6,Monovolumen,133000.0
+109,Fiat,Cronos,2021,Nafta,4,Automática,1.8,Sedán,18000.0
+110,Chevrolet,Classic,2016,Nafta/GNC,4,Manual,1.4,Sedán,79000.0
+111,Renault,Sandero,2019,Nafta,5,Manual,1.6,Hatchback,49000.0
+112,Honda,Fit,2012,Nafta,5,Automática,1.4,Hatchback,83000.0
+113,Jeep,Renegade,2017,Nafta,5,Manual,1.8,SUV,63000.0
+114,Toyota,SW4,2017,Diésel,5,Automática,2.8,SUV,53000.0
+115,Peugeot,207,2011,Nafta,4,Manual,1.4,Hatchback,119000.0
+116,Ford,Focus III,2013,Nafta,5,Manual,2.0,Hatchback,177000.0
+117,Peugeot,308,2014,Nafta,5,Manual,1.6,Hatchback,74000.0
+118,Honda,Fit,2012,Nafta,5,Automática,1.4,Hatchback,83000.0
+119,Renault,Sandero,2019,Nafta,5,Manual,1.6,Hatchback,49000.0
+120,Honda,HR-V,2018,Nafta,5,Automática,1.8,SUV,99000.0
+121,Renault,Captur,2019,Nafta,5,Automática,1.6,SUV,40000.0
+122,Peugeot,208,2019,Nafta,5,Manual,1.6,Hatchback,58000.0
+123,Peugeot,Partner Patagónica,2014,Nafta,4,Manual,1.6,Monovolumen,121000.0
+124,Chevrolet,Onix,2020,Nafta,5,Manual,1.0,Hatchback,39000.0
+125,Ford,Fiesta Kinetic Design,2017,Nafta,5,Automática,1.6,Hatchback,108000.0
+126,Chevrolet,Prisma,2020,Nafta,4,Manual,1.4,Sedán,58000.0
+127,Ford,Fiesta Kinetic Design,2015,Nafta,5,Manual,1.6,Hatchback,63000.0
+128,Volkswagen,Tiguan,2009,Diésel,5,Automática,2.0,SUV,170000.0
+129,Ford,Focus III,2018,Nafta,5,Automática,2.0,Hatchback,42000.0
+130,Peugeot,208,2017,Nafta,5,Manual,1.6,Hatchback,88000.0
+131,Volkswagen,Virtus,2021,Nafta,4,Automática,1.6,Sedán,67000.0
+132,Peugeot,208,2018,Nafta,5,Manual,1.6,Hatchback,39000.0
+133,Peugeot,208,2015,Nafta,5,Manual,1.5,Hatchback,77000.0
+134,Volkswagen,Amarok,2020,Diésel,4,Manual,2.0,Pick-Up,79000.0
+135,Chevrolet,S10,2018,Diésel,4,Manual,2.8,Pick-Up,170000.0
+136,Volkswagen,Tiguan Allspace,2019,Nafta,5,Automática,1.4,SUV,37000.0
+137,Volkswagen,Up!,2015,Nafta,5,Automática,1.0,Hatchback,95000.0
+138,Volkswagen,Gol Trend,2014,Nafta,5,Manual,1.6,Hatchback,62208.0
+139,Jeep,Compass,2012,Nafta,5,Automática,2.4,SUV,113000.0
+140,Kia,Cerato,2020,Nafta,5,Automática,2.0,Hatchback,86000.0
+141,Audi,A1,2012,Nafta,3,Manual,1.4,Hatchback,95000.0
+142,Fiat,Toro,2020,Diésel,4,Automática,2.0,Pick-Up,54000.0
+143,Fiat,Tipo,2018,Nafta,4,Automática,1.6,Sedán,69000.0
+144,Chevrolet,Agile,2017,Nafta,5,Manual,1.4,Hatchback,64000.0
+145,Chevrolet,Trailblazer,2021,Diésel,5,Automática,2.8,SUV,23000.0
+146,Nissan,Versa,2019,Nafta,4,Automática,1.6,Sedán,50000.0
+147,Chery,Tiggo 2,2018,Nafta,5,Manual,1.5,SUV,59000.0
+148,Volkswagen,Passat,2017,Nafta,4,Automática,2.0,Sedán,59000.0
+149,Ford,Focus III,2015,Nafta,5,Manual,1.6,Hatchback,105200.0
+150,Chevrolet,Cruze II,2019,Nafta,5,Automática,1.4,Hatchback,57000.0
+151,Peugeot,307,2011,Nafta,5,Manual,2.0,Hatchback,88000.0
+152,Toyota,Corolla,2022,Nafta,4,Manual,1.8,Sedán,17000.0
+153,Toyota,SW4,2022,Diésel,5,Automática,2.8,SUV,5000.0
+154,Honda,Fit,2010,Nafta,5,Automática,1.5,Hatchback,140000.0
+155,BMW,Serie 1,2014,Nafta,5,Manual,1.6,Hatchback,70000.0
+156,Renault,Duster Oroch,2019,Nafta,4,Manual,1.6,SUV,87000.0
+157,Honda,CR-V,2012,Nafta,5,Automática,2.4,SUV,125000.0
+158,Audi,Q5,2013,Nafta,5,Automática,2.0,SUV,99000.0
+159,Volkswagen,Fox,2012,Nafta,3,Manual,1.6,Hatchback,129000.0
+160,Peugeot,208,2023,Nafta,5,Manual,1.6,Hatchback,500.0
+161,Peugeot,208,2023,Nafta,5,Manual,1.6,Hatchback,500.0
+162,Peugeot,208,2023,Nafta,5,Automática,1.6,Hatchback,500.0
+163,Audi,A3 Sportback,2011,Nafta,5,Automática,2.0,Hatchback,89000.0
+164,Chevrolet,Cruze,2011,Nafta,5,Manual,1.8,Hatchback,95000.0
+165,Nissan,Tiida,2011,Nafta,4,Manual,1.8,Sedán,139000.0
+166,Chevrolet,Onix,2017,Nafta,5,Manual,1.4,Hatchback,90000.0
+167,Chevrolet,S10,2017,Diésel,4,Manual,2.8,Pick-Up,98000.0
+168,Volkswagen,Suran,2013,Nafta,5,Manual,1.6,Monovolumen,118000.0
+169,Chevrolet,Cruze,2015,Diésel,5,Automática,2.0,Hatchback,63000.0
+170,Toyota,SW4,2011,Diésel,5,Manual,3.0,SUV,162000.0
+171,Peugeot,207,2009,Nafta,5,Manual,1.4,Hatchback,89000.0
+172,Toyota,Etios,2013,Nafta,5,Manual,1.5,Hatchback,106000.0
+173,Audi,S3,2012,Nafta,5,Manual,2.0,Hatchback,79000.0
+174,Renault,Kangoo,2010,Nafta/GNC,3,Manual,1.6,Furgón,148000.0
+175,Mercedes-Benz,Clase C,2006,Nafta,4,Manual,2.0,Sedán,158000.0
+176,Volkswagen,Gol,2013,Nafta,3,Manual,1.4,Hatchback,94000.0
+177,Volkswagen,Virtus,2022,Nafta,4,Manual,1.6,Sedán,500.0
+178,BMW,Serie 1,2016,Nafta,5,Automática,1.6,Hatchback,95000.0
+179,Peugeot,208,2021,Nafta,5,Automática,1.6,Hatchback,26000.0
+180,Dodge,Journey,2011,Nafta,5,Automática,2.4,SUV,138000.0
+181,Citroën,Aircross,2011,Nafta,5,Manual,1.6,Hatchback,94000.0
+182,Volkswagen,Up!,2016,Nafta,3,Manual,1.0,Hatchback,117000.0
+183,Volkswagen,Amarok,2018,Diésel,4,Automática,3.0,Pick-Up,52000.0
+184,Renault,Duster,2018,Nafta,5,Manual,1.6,SUV,86000.0
+185,Ford,Focus III,2017,Nafta,5,Automática,2.0,Hatchback,89000.0
+186,Renault,Sandero Stepway,2013,Nafta,5,Manual,1.6,Hatchback,151000.0
+187,Renault,Duster Oroch,2021,Nafta,5,Manual,2.0,SUV,14000.0
+188,Volkswagen,Up!,2019,Nafta,5,Manual,1.0,Hatchback,70000.0
+189,Ford,Ranger,2014,Diésel,4,Manual,3.2,Pick-Up,115000.0
+190,Mercedes-Benz,Clase E,2011,Nafta,4,Automática,6.3,Sedán,80000.0
+191,Mercedes-Benz,Clase GLA,2017,Nafta,5,Automática,1.6,SUV,36000.0
+192,Volkswagen,Vento,2018,Nafta,4,Manual,2.0,Sedán,44000.0
+193,Toyota,Corolla,2021,Nafta,4,Automática,1.8,Sedán,40000.0
+194,Kia,K2500,2019,Diésel,2,Manual,2.5,Light Truck,5900.0
+195,Volkswagen,Up!,2018,Nafta,5,Manual,1.0,Hatchback,49000.0
+196,Volkswagen,Up!,2018,Nafta,3,Manual,1.0,Hatchback,59000.0
+197,Toyota,Etios,2018,Nafta,5,Manual,1.5,Hatchback,78000.0
+198,Chevrolet,Cruze,2022,Nafta,4,Automática,1.8,Sedán,7000.0
+199,Toyota,Etios,2019,Nafta,4,Manual,1.5,Sedán,49000.0
+200,Toyota,Etios,2018,Nafta/GNC,4,Manual,1.5,Sedán,72000.0
+201,Audi,Q3,2018,Nafta,5,Automática,2.0,SUV,81000.0
+202,Volkswagen,Vento,2012,Diésel,4,Automática,2.0,Sedán,100000.0
+203,Ford,Ranger,2019,Diésel,4,Automática,3.2,Pick-Up,65000.0
+204,Renault,Sandero Stepway,2016,Nafta,5,Manual,1.6,Hatchback,58000.0
+205,Toyota,Corolla,2022,Híbrido/Nafta,4,Automática,1.8,Sedán,1111.0
+206,Peugeot,308,2015,Diésel,5,Manual,1.6,Hatchback,92000.0
+207,Ford,Fiesta Kinetic Design,2018,Nafta,5,Manual,1.6,Hatchback,79000.0
+208,Ford,Ka,2020,Nafta,4,Manual,1.5,Sedán,14000.0
+209,Ford,Ranger,2013,Diésel,4,Manual,2.2,Pick-Up,200000.0
+210,Kia,Soul,2014,Nafta,5,Automática,1.6,SUV,68000.0
+211,Volkswagen,Taos,2022,Nafta,5,Automática,1.4,SUV,5000.0
+212,Toyota,Etios,2015,Nafta,4,Manual,1.5,Sedán,78700.0
+213,RAM,1500,2017,Nafta,4,Automática,5.7,Pick-Up,1111.0
+214,Jeep,Grand Cherokee,2013,Nafta,5,Automática,3.6,SUV,160000.0
+215,Chevrolet,Tracker,2015,Nafta,5,Manual,1.8,SUV,110000.0
+216,Kia,Rio,2018,Nafta,5,Automática,1.6,Hatchback,36944.0
+217,Fiat,Fiorino,2018,Nafta,3,Manual,1.4,Furgón,79000.0
+218,Kia,Soul,2012,Nafta,5,Automática,1.6,SUV,77000.0
+219,Fiat,Toro,2022,Nafta,4,Automática,1.3,Pick-Up,18000.0
+220,Ford,Fiesta Kinetic Design,2018,Nafta,5,Automática,1.6,Hatchback,53000.0
+221,Renault,Captur,2020,Nafta,5,Manual,1.6,SUV,21000.0
+222,Mercedes-Benz,Clase B,2011,Nafta,5,Manual,1.7,Monovolumen,176200.0
+223,Volkswagen,Suran,2018,Nafta,5,Manual,1.6,Monovolumen,83000.0
+224,Citroën,C3 Aircross,2012,Nafta,5,Manual,1.6,Rural,90000.0
+225,Fiat,Toro,2020,Diésel,4,Automática,2.0,Pick-Up,69000.0
+226,Fiat,Palio,2015,Nafta,5,Manual,1.4,Hatchback,80000.0
+227,Fiat,500C,2015,Nafta,3,Manual,1.4,Cabriolet,55000.0
+228,Peugeot,408,2020,Diésel,4,Manual,1.6,Sedán,29000.0
+229,Jeep,Compass,2012,Nafta,5,Automática,2.4,SUV,120000.0
+230,Chevrolet,Onix,2017,Nafta,5,Manual,1.4,Hatchback,60000.0
+231,Citroën,C4,2008,Nafta,5,Manual,2.0,Hatchback,105000.0
+232,Peugeot,308,2017,Nafta,5,Manual,1.6,Hatchback,106000.0
+233,Chevrolet,Onix,2020,Nafta,5,Manual,1.0,Hatchback,39000.0
+234,DS,DS7 Crossback,2020,Diésel,5,Automática,2.0,Monovolumen,45000.0
+235,Ford,Fiesta Kinetic Design,2013,Nafta,5,Manual,1.6,Hatchback,99000.0
+236,Renault,Captur,2020,Nafta,5,Manual,1.6,SUV,66000.0
+237,Ford,Ka,2007,Nafta,3,Manual,1.0,Hatchback,112000.0
+238,Jeep,Renegade,2022,Nafta,5,Manual,1.8,SUV,9900.0
+239,Volkswagen,CC,2016,Nafta,4,Automática,2.0,Sedán,75000.0
+240,Renault,Sandero,2019,Nafta,5,Manual,1.6,Hatchback,49000.0
+241,Jeep,Renegade,2017,Nafta,5,Manual,1.8,SUV,75963.0
+242,Chevrolet,Tracker,2018,Nafta,5,Automática,1.8,SUV,52000.0
+243,Volkswagen,Vento,2018,Nafta,4,Automática,1.4,Sedán,98000.0
+244,Peugeot,308,2012,Nafta,5,Manual,1.6,Hatchback,136000.0
+245,Hyundai,H1,2018,Nafta,5,Automática,2.4,Monovolumen,39000.0
+246,Renault,Captur,2017,Nafta,5,Automática,2.0,SUV,99000.0
+247,Volkswagen,Tiguan Allspace,2019,Nafta,5,Automática,2.0,SUV,72000.0
+248,Ford,Ranger Raptor,2020,Diésel,4,Automática,2.0,Pick-Up,27000.0
+249,Peugeot,208,2019,Nafta,5,Manual,1.6,Hatchback,39000.0
+250,Ford,Ecosport,2016,Nafta,5,Manual,1.6,SUV,30000.0
+251,Volkswagen,Tiguan,2014,Nafta,5,Automática,2.0,SUV,142000.0
+252,Ford,Fiesta Kinetic Design,2015,Nafta,5,Manual,1.6,Hatchback,100000.0
+253,Volkswagen,Polo,2017,Nafta,4,Automática,1.6,Hatchback,47000.0
+254,Chevrolet,Spin,2015,Nafta,5,Manual,1.8,Monovolumen,85000.0
+255,Peugeot,2008,2017,Nafta,5,Manual,1.6,SUV,127000.0
+256,Volkswagen,Golf,2016,Nafta,5,Automática,1.4,Hatchback,74888.0
+257,Ford,Ranger,2008,Diésel,2,Manual,3.0,Pick-Up,187000.0
+258,Renault,Symbol,2010,Nafta,4,Manual,1.6,Sedán,65000.0
+259,Toyota,SW4,2022,Diésel,5,Automática,2.8,SUV,44000.0
+260,Volkswagen,Gol Trend,2013,Nafta,5,Manual,1.6,Hatchback,45500.0
+261,Renault,Mégane III,2013,Nafta,5,Manual,2.0,Hatchback,86000.0
+262,Volkswagen,Suran,2018,Nafta,5,Manual,1.6,Hatchback,72820.0
+263,Volkswagen,Amarok,2022,Diésel,4,Automática,3.0,Pick-Up,500.0
+264,Audi,R8 Coupé,2011,Nafta,2,Automática,5.2,Coupé,13000.0
+265,Toyota,Prius,2018,Híbrido/Nafta,4,Automática,1.8,Hatchback,89500.0
+266,Volkswagen,Amarok,2021,Diésel,4,Automática,3.0,Pick-Up,70200.0
+267,Kia,Soul,2012,Nafta,5,Automática,1.6,SUV,77000.0
+268,Ford,Ecosport,2014,Nafta,5,Manual,1.6,SUV,82000.0
+269,Peugeot,408,2018,Nafta,4,Automática,1.6,Sedán,69000.0
+270,Peugeot,408,2016,Nafta,4,Manual,1.6,Sedán,89000.0
+271,Peugeot,408,2013,Diésel,4,Manual,1.6,Sedán,89000.0
+272,Toyota,Hilux,2018,Diésel,4,Manual,2.4,Pick-Up,57600.0
+273,Chevrolet,Tracker,2015,Nafta,5,Automática,1.8,SUV,98200.0
+274,Renault,Captur,2019,Nafta,5,Automática,1.6,SUV,40000.0
+275,Renault,Clio,2016,Nafta,3,Manual,1.2,Hatchback,82000.0
+276,Renault,Sandero Stepway,2013,Nafta,5,Manual,1.6,Hatchback,81000.0
+277,Chevrolet,Tracker,2021,Nafta,5,Automática,1.2,SUV,32000.0
+278,Volkswagen,Polo,2017,Nafta,4,Manual,1.6,Hatchback,79000.0
+279,Renault,Mégane II,2010,Nafta,4,Manual,2.0,Sedán,128000.0
+280,Chevrolet,Cruze 5,2022,Nafta,5,Automática,1.4,Hatchback,7000.0
+281,Volkswagen,Polo,2018,Nafta,5,Automática,1.6,Hatchback,78000.0
+282,Volkswagen,Gol Trend,2014,Nafta,3,Manual,1.6,Hatchback,79000.0
+283,Volkswagen,Gol Trend,2019,Nafta,5,Manual,1.6,Hatchback,30000.0
+284,Renault,Kangoo,2015,Nafta,4,Manual,1.6,Monovolumen,97000.0
+285,Chevrolet,Onix,2017,Nafta,5,Manual,1.4,Hatchback,54000.0
+286,Ford,Ecosport,2014,Diésel,5,Manual,1.5,SUV,98000.0
+287,Fiat,Strada,2018,Nafta,3,Manual,1.6,Pick-Up,99000.0
+288,Chevrolet,Tracker,2014,Nafta,5,Automática,1.8,SUV,130000.0
+289,Volkswagen,Amarok,2014,Diésel,4,Manual,2.0,Pick-Up,176000.0
+290,Ford,Ranger,2016,Diésel,4,Automática,3.2,Pick-Up,170000.0
+291,Volkswagen,Suran,2018,Nafta,5,Manual,1.6,Monovolumen,72820.0
+292,Audi,A5,2011,Nafta,2,Automática,2.0,Coupé,119000.0
+293,Citroën,Berlingo,2015,Diésel,3,Manual,1.6,Furgón,173000.0
+294,Volkswagen,Virtus,2021,Nafta,4,Automática,1.6,Sedán,67000.0
+295,Volkswagen,Virtus,2021,Nafta,4,Automática,1.6,Sedán,67000.0
+296,Peugeot,2008,2017,Nafta,5,Manual,1.6,SUV,80532.0
+297,RAM,1500,2022,Nafta,4,Automática,5.7,Pick-Up,11111.0
+298,Mercedes-Benz,Clase CLA,2013,Nafta,2,Automática,1.6,Coupé,77000.0
+299,Volkswagen,Golf,2018,Nafta,5,Automática,1.4,Hatchback,76000.0
+300,Renault,Clio,2012,Nafta,5,Manual,1.2,Hatchback,122000.0
+301,Ford,Territory,2022,Nafta,5,Automática,1.5,SUV,1000.0
+302,Ford,F-100,1997,Diésel,2,Manual,2.5,Pick-Up,335000.0
+303,Volkswagen,Fox,2019,Nafta,5,Manual,1.6,Hatchback,49000.0
+304,Volkswagen,Polo,2017,Nafta,4,Manual,1.6,Hatchback,47000.0
+305,Volkswagen,Fox,2019,Nafta,5,Manual,1.6,Hatchback,45000.0
+306,Peugeot,208,2018,Nafta,5,Manual,1.6,Hatchback,59000.0
+307,Audi,A1 Sportback,2020,Nafta,5,Automática,1.0,Hatchback,23000.0
+308,Toyota,SW4,2016,Diésel,5,Automática,2.8,SUV,215000.0
+309,Peugeot,207,2012,Nafta,3,Manual,1.6,Hatchback,118000.0
+310,Toyota,Corolla,2022,Nafta,4,Manual,1.8,Sedán,700.0
+311,Volkswagen,Golf,2017,Nafta,5,Automática,1.4,Hatchback,92300.0
+312,Volkswagen,Bora,2010,Diésel,4,Manual,1.9,Sedán,154100.0
+313,Volkswagen,Scirocco,2012,Nafta,2,Manual,1.4,Coupé,96400.0
+314,Volkswagen,Vento,2017,Nafta,4,Automática,1.4,Sedán,70600.0
+315,Volkswagen,Vento,2018,Nafta,4,Automática,1.4,Sedán,53400.0
+316,Volkswagen,Golf,2019,Nafta,5,Automática,1.4,Hatchback,35000.0
+317,Citroën,C3 Picasso,2013,Nafta,5,Manual,1.6,Hatchback,105000.0
+318,Mercedes-Benz,Clase GLK,2013,Nafta,5,Automática,3.0,SUV,70000.0
+319,BMW,X6,2012,Nafta,5,Automática,3.0,SUV,96000.0
+320,Renault,Kangoo,2020,Diésel,3,Manual,1.5,Furgón,42000.0
+321,Peugeot,2008,2017,Nafta,5,Manual,1.6,SUV,43000.0
+322,BMW,Serie 3,2019,Nafta,4,Manual,3.0,Sedán,3000.0
+323,Chevrolet,Cruze,2018,Nafta,4,Manual,1.8,Sedán,47000.0
+324,Ford,Ranger,2015,Nafta,4,Manual,2.5,Pick-Up,143000.0
+325,Audi,Q3,2017,Nafta,5,Automática,2.0,SUV,45000.0
+326,BMW,Serie 1,2013,Nafta,5,Automática,1.6,Hatchback,77000.0
+327,Volkswagen,Golf,2018,Nafta,5,Automática,2.0,Hatchback,56000.0
+328,Ford,Ranger,2021,Diésel,4,Manual,2.2,Pick-Up,6000.0
+329,Renault,Kangoo,2013,Nafta,3,Manual,1.6,Furgón,140000.0
+330,Volkswagen,Fox,2012,Nafta,5,Manual,1.6,Hatchback,105400.0
+331,Toyota,Hilux,2017,Diésel,4,Manual,2.4,Pick-Up,93300.0
+332,Renault,Duster,2015,Nafta/GNC,5,Manual,2.0,SUV,89400.0
+333,Peugeot,308,2019,Diésel,5,Manual,1.6,Hatchback,65400.0
+334,Ford,Ecosport,2012,Nafta,5,Manual,1.6,SUV,125900.0
+335,Mercedes-Benz,Clase A,2018,Nafta,5,Automática,1.6,Hatchback,28000.0
+336,Audi,A1,2013,Nafta,3,Automática,1.4,Hatchback,101000.0
+337,Renault,Captur,2021,Nafta,5,Manual,2.0,SUV,23000.0
+338,Fiat,Toro,2017,Diésel,4,Automática,2.0,Pick-Up,125000.0
+339,Ford,Ranger,2016,Diésel,4,Manual,3.2,Pick-Up,100000.0
+340,Ford,Focus III,2016,Nafta,5,Manual,2.0,Hatchback,114000.0
+341,Fiat,Argo,2018,Nafta,5,Manual,1.8,Hatchback,55000.0
+342,Audi,S3,2017,Nafta,3,Automática,2.0,Hatchback,15000.0
+343,Mercedes-Benz,Clase A,2021,Nafta,5,Automática,1.3,Hatchback,11000.0
+344,Mercedes-Benz,Clase GLE,2019,Nafta,5,Automática,3.0,SUV,46000.0
+345,BMW,Serie 3,2020,Nafta,4,Manual,3.0,Sedán,8200.0
+346,Ford,Focus III,2016,Nafta,4,Manual,1.6,Sedán,56000.0
+347,BMW,X1,2012,Diésel,5,Manual,2.0,SUV,120000.0
+348,Peugeot,308,2016,Nafta,5,Manual,2.0,Hatchback,116300.0
+349,Fiat,500,2014,Nafta,3,Manual,1.4,Hatchback,69000.0
+350,Volkswagen,Polo,2018,Nafta,5,Manual,1.6,Hatchback,66000.0
+351,Toyota,Corolla,2018,Nafta,4,Automática,1.8,Sedán,69000.0
+352,Fiat,Fiorino,2015,Nafta,3,Manual,1.4,Furgón,74100.0
+353,Fiat,Argo,2020,Nafta,5,Manual,1.8,Hatchback,55900.0
+354,Chevrolet,Onix,2018,Nafta,5,Manual,1.4,Hatchback,79800.0
+355,Chevrolet,Onix,2018,Nafta/GNC,5,Manual,1.4,Hatchback,62300.0
+356,Chevrolet,Spin,2015,Nafta/GNC,5,Manual,1.8,Monovolumen,110400.0
+357,Citroën,C4,2014,Diésel,5,Manual,1.6,Hatchback,137000.0
+358,Citroën,C4 Picasso,2011,Diésel,5,Manual,1.6,Monovolumen,190200.0
+359,Volkswagen,Amarok,2022,Diésel,4,Automática,2.0,Pick-Up,1111.0
+360,Volkswagen,Amarok,2016,Diésel,4,Automática,2.0,Pick-Up,177000.0
+361,Kia,Rio,2022,Nafta,5,Automática,1.6,Hatchback,6000.0
+362,Peugeot,308,2014,Nafta,5,Automática,1.6,Hatchback,118000.0
+363,Volkswagen,Polo,2022,Nafta,5,Manual,1.6,Hatchback,5000.0
+364,Volkswagen,Amarok,2013,Diésel,4,Automática,2.0,Pick-Up,155000.0
+365,Peugeot,407,2008,Diésel,4,Manual,2.0,Sedán,141000.0
+366,Citroën,C4 Lounge,2018,Diésel,4,Manual,1.6,Sedán,95000.0
+367,Kia,Sportage,2014,Nafta,5,Automática,2.0,SUV,57000.0
+368,Volkswagen,Amarok,2016,Diésel,4,Automática,2.0,Pick-Up,125000.0
+369,Ford,Territory,2022,Nafta,5,Automática,1.5,SUV,1000.0
+370,BMW,Serie 2,2021,Nafta,2,Automática,2.0,Coupé,19800.0
+371,Toyota,SW4,1999,Diésel,5,Manual,3.0,SUV,289000.0
+372,Fiat,Strada,2011,Nafta,2,Manual,1.4,Pick-Up,124000.0
+373,Mercedes-Benz,Clase E,2011,Nafta,4,Automática,6.3,Sedán,80000.0
+374,Honda,Fit,2008,Nafta,5,Manual,1.5,Hatchback,140000.0
+375,Renault,Duster,2015,Nafta,5,Manual,1.6,SUV,87000.0
+376,Audi,A1,2012,Nafta,3,Automática,1.4,Hatchback,96000.0
+377,Chevrolet,Agile,2014,Nafta,5,Manual,1.4,Hatchback,58700.0
+378,Volkswagen,Amarok,2017,Diésel,2,Manual,2.0,Pick-Up,130000.0
+379,Hyundai,Tucson,2013,Nafta,5,Automática,2.0,SUV,130000.0
+380,Jeep,Renegade,2019,Nafta,5,Automática,1.8,SUV,78000.0
+381,Jeep,Renegade,2017,Nafta,5,Manual,1.8,SUV,52000.0
+382,Ford,Ranger,2021,Diésel,4,Automática,3.2,Pick-Up,38000.0
+383,Toyota,RAV4,2017,Nafta,5,Automática,2.5,SUV,83100.0
+384,Ford,Ranger,2022,Diésel,4,Automática,3.2,Pick-Up,1000.0
+385,Renault,Duster Oroch,2016,Nafta,4,Manual,1.6,SUV,125000.0
+386,Toyota,Etios,2016,Nafta,4,Manual,1.5,Sedán,61000.0
+387,BMW,Serie 1,2014,Nafta,5,Manual,1.6,Hatchback,86838.0
+388,Chevrolet,Agile,2017,Nafta,5,Manual,1.4,Hatchback,64000.0
+389,Audi,Q2,2019,Nafta,5,Automática,2.0,SUV,65000.0
+390,Chevrolet,Agile,2012,Nafta/GNC,5,Manual,1.4,Hatchback,198000.0
+391,Ford,Fiesta Kinetic Design,2017,Nafta/GNC,5,Manual,1.6,Hatchback,77000.0
+392,Ford,Fiesta Kinetic Design,2014,Nafta,5,Manual,1.6,Hatchback,106000.0
+393,Nissan,Sentra,2020,Nafta,4,Automática,2.0,Sedán,30000.0
+394,Volkswagen,Amarok,2017,Diésel,4,Manual,2.0,Pick-Up,146000.0
+395,Mitsubishi,L200,2018,Diésel,4,Automática,2.4,Pick-Up,62000.0
+396,Renault,Sandero Stepway,2015,Nafta,5,Manual,1.6,Hatchback,93000.0
+397,Volkswagen,Suran,2010,Nafta,5,Manual,1.6,Monovolumen,110000.0
+398,Renault,Captur,2018,Nafta,5,Automática,1.6,SUV,55000.0
+399,Peugeot,5008,2013,Nafta,5,Manual,1.6,Monovolumen,119000.0
+400,Peugeot,308,2014,Nafta,5,Manual,2.0,Hatchback,95000.0
+401,Jeep,Renegade,2021,Nafta,5,Automática,1.8,SUV,32000.0
+402,Ford,Ecosport,2017,Nafta,5,Manual,1.6,SUV,60000.0
+403,Honda,HR-V,2021,Nafta,5,Automática,1.8,SUV,19900.0
+404,Mercedes-Benz,Clase GLA,2017,Nafta,5,Automática,1.6,SUV,36000.0
+405,Kia,Sorento,2012,Nafta,5,Automática,2.4,SUV,123500.0
+406,Ford,Ranger,2022,Diésel,4,Manual,3.2,Pick-Up,13000.0
+407,BMW,Serie 2,2021,Nafta,2,Automática,3.0,Coupé,2500.0
+408,Chevrolet,Cruze II,2017,Nafta,5,Automática,1.4,Hatchback,97209.0
+409,Renault,Duster Oroch,2019,Nafta,4,Manual,1.6,SUV,62000.0
+410,Peugeot,208,2014,Nafta,5,Manual,1.6,Hatchback,77000.0
+411,Toyota,Hilux,2022,Diésel,4,Automática,2.8,Pick-Up,18000.0
+412,Chevrolet,Cruze II,2017,Nafta,4,Automática,1.4,Sedán,98000.0
+413,Peugeot,208,2021,Nafta,5,Automática,1.6,Hatchback,7200.0
+414,Fiat,Toro,2016,Diésel,4,Automática,2.0,Pick-Up,124418.0
+415,Volkswagen,Amarok,2017,Diésel,4,Manual,2.0,Pick-Up,146000.0
+416,Honda,Fit,2018,Nafta,5,Automática,1.5,Hatchback,29150.0
+417,Volkswagen,Up!,2014,Nafta,3,Manual,1.0,Hatchback,90000.0
+418,Toyota,SW4,2016,Diésel,5,Automática,2.8,SUV,69000.0
+419,Toyota,Etios,2015,Nafta,5,Manual,1.5,Hatchback,86000.0
+420,RAM,1500,2015,Nafta,4,Automática,5.7,Pick-Up,88000.0
+421,Audi,A1,2011,Nafta,3,Manual,1.4,Hatchback,100000.0
+422,Toyota,Corolla,2016,Nafta,4,Automática,1.8,Sedán,45000.0
+423,Toyota,Etios,2017,Nafta,5,Manual,1.5,Hatchback,46000.0
+424,Volkswagen,Virtus,2020,Nafta,4,Automática,1.6,Sedán,58000.0
+425,Nissan,March,2016,Nafta,5,Manual,1.6,Hatchback,60000.0
+426,Volkswagen,Suran,2017,Nafta,5,Manual,1.6,Monovolumen,87600.0
+427,Peugeot,208,2020,Nafta,5,Automática,1.6,Hatchback,25000.0
+428,Volkswagen,Suran,2017,Nafta,5,Manual,1.6,Monovolumen,57200.0
+429,Peugeot,408,2018,Diésel,4,Manual,1.6,Sedán,160900.0
+430,Chevrolet,Celta,2011,Nafta,5,Manual,1.4,Hatchback,109000.0
+431,Toyota,SW4,2023,Diésel,5,Automática,2.8,SUV,38.0
+432,Toyota,Corolla,2018,Nafta,4,Automática,1.8,Sedán,99000.0
+433,Chevrolet,Sonic,2013,Nafta,4,Manual,1.6,Sedán,108000.0
+434,Volkswagen,Suran,2016,Nafta/GNC,5,Manual,1.6,Monovolumen,116000.0
+435,Chevrolet,Trailblazer,2013,Diésel,5,Automática,2.8,SUV,119000.0
+436,Volkswagen,Gol Trend,2018,Nafta/GNC,5,Manual,1.6,Hatchback,122000.0
+437,Chevrolet,Onix,2015,Nafta,5,Manual,1.4,Hatchback,52000.0
+438,Citroën,C4 Lounge,2014,Nafta/GNC,4,Manual,2.0,Sedán,105000.0
+439,Renault,Clio,2016,Nafta,3,Manual,1.2,Hatchback,76289.0
+440,BMW,X1,2017,Nafta,5,Manual,2.0,SUV,90000.0
+441,Volkswagen,Gol Trend,2020,Nafta,5,Manual,1.6,Hatchback,38000.0
+442,Volkswagen,Amarok,2014,Diésel,4,Manual,2.0,Pick-Up,145000.0
+443,Volkswagen,Gol Trend,2020,Nafta,5,Manual,1.6,Hatchback,38000.0
+444,Volkswagen,Crossfox,2015,Nafta,5,Manual,1.6,Hatchback,85000.0
+445,Chevrolet,Cruze,2014,Diésel,4,Automática,2.0,Sedán,114500.0
+446,Peugeot,408,2013,Diésel,4,Manual,1.6,Sedán,160000.0
+447,Fiat,Argo,2019,Nafta,5,Manual,1.8,Hatchback,38000.0
+448,Ford,Ecosport,2019,Nafta,5,Manual,1.5,SUV,63000.0
+449,Chevrolet,Captiva,2013,Nafta,5,Manual,2.4,SUV,98000.0
+450,BMW,X5,2008,Diésel,5,Automática,3.0,SUV,120000.0
+451,BMW,Serie 3,2009,Nafta,2,Manual,3.0,Coupé,67000.0
+452,Fiat,Toro,2020,Diésel,4,Automática,2.0,Pick-Up,54000.0
+453,Volkswagen,Gol Trend,2017,Nafta,5,Manual,1.6,Hatchback,39000.0
+454,Fiat,Toro,2020,Diésel,4,Automática,2.0,Pick-Up,54000.0
+455,Volkswagen,Amarok,2022,Diésel,4,Automática,3.0,Pick-Up,500.0
+456,Toyota,Hilux,2018,Diésel,4,Automática,2.8,Pick-Up,70000.0
+457,BMW,Serie 2,2019,Nafta,2,Automática,3.0,Coupé,63000.0
+458,Volkswagen,Vento,2021,Nafta,4,Automática,1.4,Sedán,75000.0
+459,Renault,Kangoo,2022,Nafta,3,Manual,1.6,Furgón,1009.0
+460,Renault,Duster,2015,Nafta,5,Manual,1.6,SUV,82000.0
+461,Chevrolet,Tracker,2017,Nafta,5,Manual,1.8,SUV,18000.0
+462,Ford,Focus III,2014,Nafta,5,Automática,2.0,Hatchback,144000.0
+463,RAM,1500,2019,Nafta,4,Automática,5.7,Pick-Up,78000.0
+464,Ford,Ecosport,2015,Nafta,5,Manual,1.6,SUV,98000.0
+465,Volkswagen,T-Cross,2020,Nafta,5,Automática,1.6,SUV,32000.0
+466,Chevrolet,Cruze,2014,Nafta,5,Automática,1.8,Hatchback,138000.0
+467,Toyota,SW4,2019,Diésel,5,Automática,2.8,SUV,99000.0
+468,Kia,Sorento,2017,Diésel,5,Automática,2.2,SUV,190000.0
+469,Ford,Focus III,2015,Nafta,5,Manual,2.0,Hatchback,142000.0
+470,Citroën,Berlingo,2020,Diésel,3,Manual,1.6,Furgón,30000.0
+471,Ford,Ecosport,2013,Nafta,5,Manual,1.6,SUV,158000.0
+472,Ford,Focus III,2017,Nafta,5,Automática,2.0,Hatchback,85800.0
+473,Ford,Ka,2020,Nafta,5,Manual,1.5,Hatchback,17300.0
+474,Nissan,Sentra,2021,Nafta,4,Automática,1.8,Sedán,17800.0
+475,Volkswagen,T-Cross,2019,Nafta,5,Manual,1.6,SUV,30000.0
+476,Ford,Focus III,2014,Nafta,4,Automática,2.0,Sedán,73800.0
+477,RAM,1500,2020,Nafta,4,Automática,5.7,Pick-Up,39000.0
+478,Nissan,Frontier,2021,Diésel,4,Automática,2.3,Pick-Up,53000.0
+479,Honda,Civic,2009,Nafta,4,Manual,1.8,Sedán,205000.0
+480,Renault,Duster,2015,Nafta,5,Manual,1.6,SUV,100000.0
+481,Ford,Ecosport,2009,Nafta/GNC,5,Manual,2.0,SUV,166000.0
+482,Peugeot,208,2016,Nafta,5,Automática,1.6,Hatchback,69000.0
+483,Citroën,C4 Lounge,2018,Nafta,4,Automática,1.6,Sedán,92000.0
+484,Alfa Romeo,Giulietta,2012,Nafta,5,Manual,1.8,Hatchback,61000.0
+485,Toyota,Prius,2010,Híbrido/Nafta,4,Automática,1.8,Hatchback,69000.0
+486,Chevrolet,Onix,2017,Nafta,5,Manual,1.4,Hatchback,47000.0
+487,Volkswagen,Amarok,2021,Diésel,4,Manual,2.0,Pick-Up,15333.0
+488,Peugeot,208,2018,Nafta,5,Manual,1.6,Hatchback,86600.0
+489,Toyota,Etios,2018,Nafta,4,Manual,1.5,Sedán,80000.0
+490,Land Rover,Evoque,2015,Nafta,5,Automática,2.0,SUV,85000.0
+491,Toyota,Hiace,2021,Diésel,4,Automática,2.8,Furgón,21600.0
+492,Citroën,Jumpy,2022,Diésel,5,Manual,1.6,Furgón,500.0
+493,Fiat,Palio,2017,Nafta,5,Manual,1.4,Hatchback,69000.0
+494,Ford,Ecosport,2015,Nafta,5,Manual,1.6,SUV,106000.0
+495,Ford,F-100,1989,Nafta/GNC,2,Manual,3.6,Pick-Up,200000.0
+496,Chevrolet,Onix,2014,Nafta,5,Manual,1.4,Hatchback,77000.0
+497,Toyota,Corolla,2009,Nafta,4,Automática,1.8,Sedán,110505.0
+498,Volkswagen,Amarok,2019,Diésel,4,Automática,3.0,Pick-Up,53000.0
+499,Peugeot,5008,2023,Diésel,5,Automática,2.0,Monovolumen,500.0
+500,Toyota,Corolla,2019,Nafta,4,Automática,1.8,Sedán,59000.0
+501,Peugeot,3008,2018,Nafta,5,Automática,1.6,Monovolumen,53000.0
+502,Volkswagen,Amarok,2020,Diésel,4,Manual,2.0,Pick-Up,24000.0
+503,Volkswagen,Amarok,2017,Diésel,4,Manual,2.0,Pick-Up,116000.0
+504,Renault,Duster,2018,Nafta,5,Manual,1.6,SUV,85000.0
+505,Jeep,Grand Cherokee,2007,Diésel,5,Automática,3.0,SUV,133000.0
+506,RAM,1500,2016,Nafta,4,Automática,5.7,Pick-Up,44000.0
+507,Toyota,Hilux,2019,Diésel,4,Automática,2.8,Pick-Up,70000.0
+508,Volkswagen,Vento,2009,Nafta,4,Automática,2.0,Sedán,139000.0
+509,Peugeot,408,2016,Nafta,4,Automática,1.6,Sedán,80000.0
+510,Volkswagen,T-Cross,2020,Nafta,5,Automática,1.6,SUV,51000.0
+511,Audi,A1,2018,Nafta,5,Automática,1.4,Hatchback,90000.0
+512,Peugeot,2008,2017,Nafta,5,Manual,1.6,SUV,126500.0
+513,Peugeot,308,2018,Nafta,5,Manual,1.6,Hatchback,86000.0
+514,Ford,Ranger,2022,Nafta,4,Manual,2.5,Pick-Up,1000.0
+515,Citroën,Aircross,2018,Nafta,5,Manual,1.6,Hatchback,41000.0
+516,Volkswagen,T-Cross,2020,Nafta,5,Automática,1.6,SUV,51000.0
+517,Jeep,Renegade,2020,Nafta,5,Automática,1.8,SUV,36000.0
+518,Ford,Ecosport,2015,Nafta,5,Manual,2.0,SUV,100400.0
+519,Ford,Ranger,2016,Diésel,4,Manual,3.2,Pick-Up,136184.0
+520,Nissan,Versa,2018,Nafta,4,Manual,1.6,Sedán,67000.0
+521,Renault,Duster,2016,Nafta,5,Manual,1.6,SUV,86000.0
+522,Jeep,Renegade,2020,Nafta,5,Automática,1.8,SUV,36000.0
+523,Peugeot,308,2014,Nafta,5,Manual,1.6,Hatchback,96000.0
+524,Ford,Ecosport,2016,Diésel,5,Manual,1.5,SUV,120000.0
+525,Peugeot,308,2012,Nafta,5,Automática,2.0,Hatchback,97000.0
+526,Volkswagen,Suran,2018,Nafta,5,Manual,1.6,Hatchback,47000.0
+527,Jeep,Compass,2018,Nafta,5,Manual,2.4,SUV,41000.0
+528,Ford,Ranger,2015,Diésel,4,Manual,3.2,Pick-Up,162000.0
+529,Citroën,C4,2013,Diésel,5,Manual,1.6,Hatchback,115000.0
+530,Volkswagen,Bora,2012,Nafta,4,Manual,1.8,Sedán,95000.0
+531,Ford,Ecosport,2019,Nafta,5,Manual,1.5,SUV,25300.0
+532,Citroën,C4 Cactus,2017,Nafta,5,Automática,1.2,SUV,60000.0
+533,Ford,Ranger,2019,Diésel,4,Automática,3.2,Pick-Up,63410.0
+534,Chevrolet,Agile,2015,Nafta,5,Manual,1.4,Hatchback,52000.0
+535,Chevrolet,Prisma,2020,Nafta/GNC,4,Manual,1.4,Sedán,34000.0
+536,Audi,Q3,2017,Nafta,5,Automática,2.0,SUV,110000.0
+537,Peugeot,208,2017,Nafta,5,Manual,1.6,Hatchback,69000.0
+538,Ford,Ecosport,2017,Nafta,5,Manual,1.5,SUV,44400.0
+539,Jeep,Grand Cherokee,2015,Nafta,5,Automática,3.6,SUV,44000.0
+540,Jeep,Grand Cherokee,2015,Nafta,4,Automática,6.0,Off-Road,44000.0
+541,Toyota,SW4,2019,Diésel,5,Automática,2.8,SUV,63000.0
+542,Peugeot,208,2019,Nafta,5,Manual,1.6,Hatchback,48000.0
+543,Fiat,Punto,2013,Nafta,5,Manual,1.4,Hatchback,93000.0
+544,Ford,Focus III,2016,Nafta,5,Manual,2.0,Hatchback,86000.0
+545,Chevrolet,Onix,2020,Nafta,5,Manual,1.4,Hatchback,25000.0
+546,Subaru,Impreza,2008,Nafta,5,Manual,1.5,Hatchback,141000.0
+547,Fiat,Palio,2016,Nafta,5,Manual,1.6,Rural,59000.0
+548,Ford,Ranger,2018,Diésel,4,Automática,3.2,Pick-Up,70000.0
+549,Toyota,Hilux,2019,Diésel,4,Automática,2.8,Pick-Up,52000.0
+550,Peugeot,207,2012,Diésel,5,Manual,1.4,Hatchback,110000.0
+551,Volkswagen,Golf,2016,Nafta,5,Automática,1.4,Hatchback,115000.0
+552,Chevrolet,Classic,2014,Nafta/GNC,4,Manual,1.4,Sedán,63000.0
+553,Mercedes-Benz,Clase A,2013,Nafta,5,Manual,1.6,Hatchback,115000.0
+554,Volkswagen,Vento,2016,Nafta/GNC,4,Automática,2.5,Sedán,172000.0
+555,Volkswagen,Tiguan Allspace,2021,Nafta,5,Automática,2.0,SUV,35000.0
+556,Volkswagen,Taos,2022,Nafta,5,Automática,1.4,SUV,1111.0
+557,Fiat,Palio,2015,Nafta/GNC,5,Manual,1.4,Hatchback,64000.0
+558,Toyota,Hilux,2010,Diésel,4,Manual,2.5,Pick-Up,319000.0
+559,BMW,Serie 1,2010,Nafta,5,Manual,2.0,Hatchback,125000.0
+560,Volkswagen,Voyage,2018,Nafta,4,Manual,1.6,Sedán,38000.0
+561,Renault,Duster,2016,Nafta,5,Manual,1.6,SUV,76000.0
+562,Mercedes-Benz,Clase C,2008,Nafta,4,Automática,2.2,Sedán,250000.0
+563,Volkswagen,Vento,2012,Nafta,4,Automática,2.0,Sedán,196000.0
+564,Jeep,Renegade,2017,Nafta,5,Automática,1.8,SUV,62000.0
+565,Toyota,RAV4,2017,Nafta,5,Automática,2.0,SUV,20000.0
+566,Volkswagen,Vento,2018,Nafta,4,Manual,2.0,Sedán,44000.0
+567,Toyota,SW4,2011,Diésel,5,Manual,3.0,SUV,140000.0
+568,Chevrolet,Cruze,2017,Nafta,5,Automática,1.8,Hatchback,100000.0
+569,Volkswagen,Suran,2015,Nafta,5,Manual,1.6,Monovolumen,65000.0
+570,Volkswagen,Saveiro,2019,Nafta,2,Manual,1.6,Pick-Up,86000.0
+571,Citroën,C3,2017,Nafta,5,Manual,1.5,Hatchback,96400.0
+572,Citroën,C3,2014,Nafta,5,Manual,1.6,Hatchback,119000.0
+573,Volkswagen,Gol Trend,2018,Nafta,5,Manual,1.6,Hatchback,55000.0
+574,Renault,Duster,2019,Nafta,5,Manual,1.6,SUV,59000.0
+575,Ford,Fiesta Kinetic Design,2019,Nafta/GNC,5,Manual,1.6,Hatchback,38000.0
+576,Ford,Ecosport,2016,Nafta,5,Manual,1.6,SUV,30000.0
+577,BMW,Serie 2,2021,Nafta,2,Automática,3.0,Coupé,2500.0
+578,Volkswagen,Golf,2016,Nafta,5,Automática,2.0,Hatchback,41100.0
+579,Volkswagen,Polo,2021,Nafta,5,Automática,1.4,Hatchback,10900.0
+580,Fiat,Toro,2017,Diésel,4,Automática,2.0,Pick-Up,108933.0
+581,Ford,Focus III,2018,Nafta,4,Manual,1.6,Sedán,46000.0
+582,Dodge,Journey,2018,Nafta,5,Manual,3.6,SUV,60000.0
+583,RAM,1500,2022,Nafta,4,Automática,5.7,Pick-Up,4700.0
+584,Fiat,500X,2019,Nafta,5,Automática,1.4,SUV,60900.0
+585,Volkswagen,Amarok,2014,Diésel,4,Automática,2.0,Pick-Up,125000.0
+586,Volkswagen,Voyage,2017,Nafta,4,Manual,1.6,Sedán,83000.0
+587,RAM,1500,2022,Nafta,4,Automática,5.7,Pick-Up,4700.0
+588,Honda,HR-V,2018,Nafta,5,Automática,1.8,SUV,99700.0
+589,Ford,Focus III,2019,Nafta/GNC,4,Manual,1.6,Sedán,57000.0
+590,Honda,Civic,2017,Nafta,3,Manual,2.0,Hatchback,45038.0
+591,Citroën,Berlingo,2015,Diésel,5,Manual,1.6,Monovolumen,134545.0
+592,Mini,Cooper Countryman,2014,Nafta,3,Automática,1.6,Hatchback,124000.0
+593,Ford,Ka,2016,Nafta,5,Manual,1.5,Hatchback,61000.0
+594,Volkswagen,Vento,2018,Nafta,4,Manual,2.0,Sedán,120000.0
+595,Toyota,Etios,2016,Nafta,4,Manual,1.5,Sedán,80000.0
+596,Volvo,C30,2008,Nafta,5,Manual,2.0,Hatchback,173000.0
+597,Jeep,Patriot,2012,Nafta,5,Manual,2.0,SUV,119000.0
+598,Volkswagen,Nivus,2021,Nafta,5,Automática,1.0,SUV,10000.0
+599,Mitsubishi,Outlander,2012,Nafta,5,Automática,2.4,SUV,168000.0
+600,Chevrolet,Prisma,2017,Nafta,4,Manual,1.4,Sedán,121000.0
+601,Renault,Duster,2013,Nafta,5,Manual,1.6,SUV,106000.0
+602,Chevrolet,Tracker,2022,Nafta,5,Manual,1.2,SUV,1400.0
+603,Mercedes-Benz,Clase A,2013,Nafta,5,Manual,1.6,Hatchback,87000.0
+604,Peugeot,3008,2013,Nafta,5,Manual,1.6,Monovolumen,135000.0
+605,Honda,CR-V,2017,Nafta,5,Automática,2.4,SUV,154451.0
+606,Volkswagen,Fox,2014,Nafta,5,Manual,1.6,Hatchback,71023.0
+607,Hyundai,Tucson,2010,Nafta,5,Manual,2.0,SUV,124000.0
+608,Nissan,Versa,2019,Nafta,4,Automática,1.6,Sedán,96000.0
+609,Peugeot,308,2016,Nafta,5,Automática,1.6,Hatchback,69000.0
+610,Volkswagen,Amarok,2018,Diésel,4,Automática,3.0,Pick-Up,75000.0
+611,Peugeot,308,2017,Nafta,5,Manual,1.6,Hatchback,18500.0
+612,Jeep,Wrangler,2018,Nafta,3,Automática,3.6,Hatchback,40000.0
+613,Volkswagen,Fox,2013,Nafta,5,Manual,1.6,Hatchback,121000.0
+614,Volkswagen,Gol Trend,2009,Nafta,5,Manual,1.6,Hatchback,140000.0
+615,Audi,Q3,2017,Nafta,5,Automática,2.0,SUV,65000.0
+616,Audi,A3 Sportback,2013,Nafta,5,Automática,1.4,Hatchback,185600.0
+617,Volkswagen,Voyage,2013,Nafta,4,Manual,1.6,Sedán,161000.0
+618,Volkswagen,Golf Variant,2018,Nafta,5,Automática,1.4,Rural,46000.0
+619,Chevrolet,Cruze,2017,Nafta,4,Automática,1.8,Sedán,139000.0
+620,Mercedes-Benz,Clase A,2021,Nafta,5,Automática,1.3,Hatchback,10000.0
+621,Peugeot,301,2018,Diésel,4,Manual,1.6,Sedán,64000.0
+622,Peugeot,208,2021,Nafta,5,Automática,1.6,Hatchback,3950.0
+623,DS,DS3,2018,Nafta,3,Manual,1.6,Hatchback,40000.0
+624,Jeep,Compass,2021,Nafta,5,Manual,2.4,SUV,14000.0
+625,Toyota,Hilux,2018,Diésel,4,Automática,2.8,Pick-Up,80000.0
+626,Toyota,Hilux,2018,Diésel,4,Automática,2.8,Pick-Up,80000.0
+627,Jeep,Renegade,2017,Nafta,5,Automática,1.8,SUV,86000.0
+628,Volkswagen,Amarok,2020,Diésel,4,Manual,2.0,Pick-Up,62000.0
+629,Jeep,Commander,2022,Diésel,5,Automática,2.0,SUV,5000.0
+630,Fiat,500,2013,Nafta,3,Manual,1.4,Hatchback,82200.0
+631,Mercedes-Benz,Clase GLK,2011,Nafta,5,Automática,3.0,SUV,125000.0
+632,Volkswagen,Amarok,2021,Diésel,4,Automática,3.0,Pick-Up,46000.0
+633,Volkswagen,Amarok,2021,Diésel,4,Automática,3.0,Pick-Up,46000.0
+634,Jeep,Commander,2022,Diésel,5,Automática,2.0,SUV,1500.0
+635,Kia,Carnival,2020,Diésel,5,Automática,2.2,Monovolumen,45000.0
+636,Toyota,Hilux,2017,Diésel,4,Manual,2.8,Pick-Up,96000.0
+637,Volkswagen,Golf,2019,Nafta,5,Automática,2.0,Hatchback,54000.0
+638,BMW,Serie M,2016,Nafta,4,Automática,3.0,Sedán,14100.0
+639,Volkswagen,Polo,2022,Nafta,5,Manual,1.6,Hatchback,1111.0
+640,Renault,Sandero Stepway,2022,Nafta,5,Manual,1.6,Hatchback,1050.0
+641,Honda,HR-V,2017,Nafta,5,Automática,1.8,SUV,91001.0
+642,Honda,HR-V,2017,Nafta,5,Automática,1.8,SUV,91000.0
+643,Honda,HR-V,2017,Nafta,5,Automática,1.8,SUV,91000.0
+644,Volkswagen,Amarok,2018,Diésel,4,Automática,2.0,Pick-Up,118000.0
+645,Toyota,Hilux,1999,Diésel,4,Manual,2.8,Pick-Up,247000.0
+646,Volkswagen,Amarok,2018,Diésel,4,Automática,2.0,Pick-Up,118001.0
+647,Volkswagen,Amarok,2018,Diésel,4,Automática,2.0,Pick-Up,118000.0
+648,Peugeot,Expert,2022,Diésel,3,Manual,1.6,Furgón,1001.0
+649,Mercedes-Benz,Clase A,2020,Nafta,5,Automática,1.6,Hatchback,20100.0
+650,Audi,A1 Sportback,2021,Nafta,5,Automática,1.0,Hatchback,1500.0
+651,Honda,Civic,2017,Nafta,3,Automática,1.5,Hatchback,112000.0
+652,Audi,Q3 Sportback,2021,Nafta,5,Automática,1.4,SUV,1300.0
+653,Audi,S3,2018,Nafta,3,Automática,2.0,Hatchback,25600.0
+654,Chevrolet,Cruze,2016,Nafta,5,Manual,1.8,Hatchback,78000.0
+655,Audi,A3 Sportback,2018,Nafta,5,Automática,1.4,Hatchback,76884.0
+656,Peugeot,208,2014,Nafta,3,Manual,1.6,Hatchback,45000.0
+657,Renault,Sandero,2021,Nafta,5,Manual,1.6,Hatchback,1000.0
+658,Renault,Sandero,2021,Nafta,5,Manual,1.6,Hatchback,1000.0
+659,Audi,A3,2018,Nafta,4,Automática,2.0,Sedán,84856.0
+660,Toyota,CH-R,2020,Híbrido/Nafta,4,Automática,1.8,Hatchback,35000.0
+661,Audi,A4,2021,Nafta,4,Manual,2.0,Sedán,16000.0
+662,Audi,A4,2018,Nafta,4,Manual,2.0,Sedán,73000.0
+663,Kangoo,EXPRESS CONFORT 5A 1.6,2022,Nafta,5,Manual,1.6,Furgón,900.0
+664,Renault,Kangoo,2016,Nafta,3,Manual,1.6,Furgón,190000.0
+665,Peugeot,206,2012,Nafta,5,Manual,1.4,Hatchback,120000.0
+666,Renault,Clio,2013,Nafta,5,Manual,1.2,Hatchback,41000.0
+667,Chevrolet,Agile,2012,Nafta,5,Manual,1.4,Hatchback,84000.0
+668,Audi,A3 Sportback,2012,Nafta,5,Automática,1.4,Hatchback,156000.0
+669,Volkswagen,Touareg,2012,Diésel,5,Automática,3.0,SUV,110000.0
+670,Renault,Koleos,2011,Nafta,5,Manual,2.5,SUV,125000.0
+671,Renault,Captur,2020,Nafta,5,Manual,2.0,SUV,55000.0
+672,Volkswagen,Bora,2010,Nafta,4,Manual,1.8,Sedán,90000.0
+673,Volkswagen,Suran,2014,Nafta,5,Manual,1.6,Monovolumen,138000.0
+674,Jeep,Renegade,2023,Nafta,5,Automática,1.8,SUV,1500.0
+675,Audi,Q3,2017,Nafta,5,Automática,2.0,SUV,110000.0
+676,Volkswagen,Crossfox,2017,Nafta,5,Manual,1.6,Hatchback,85000.0
+677,Nissan,March,2018,Nafta,5,Manual,1.6,Hatchback,46000.0
+678,Peugeot,Partner,2013,Diésel,3,Manual,1.6,Furgón,192000.0
+679,Chevrolet,S10,2017,Diésel,4,Manual,2.8,Pick-Up,98000.0
+680,Volkswagen,Gol Trend,2013,Nafta,5,Manual,1.6,Hatchback,98000.0
+681,Toyota,Etios,2017,Nafta,4,Manual,1.5,Sedán,50000.0
+682,Chevrolet,Tracker,2021,Nafta,5,Automática,1.2,SUV,44981.0
+683,Fiat,Toro,2020,Diésel,4,Automática,2.0,Pick-Up,69000.0
+684,Chery,Tiggo 2,2018,Nafta,5,Manual,1.5,SUV,59000.0
+685,Honda,HR-V,2016,Nafta,5,Automática,1.8,SUV,116000.0
+686,Citroën,DS4,2013,Nafta,5,Automática,1.6,Hatchback,85100.0
+687,Peugeot,308,2012,Nafta,5,Manual,2.0,Hatchback,86000.0
+688,Citroën,C3,2014,Nafta,5,Manual,1.6,Hatchback,81000.0
+689,Peugeot,208,2023,Nafta,5,Automática,1.6,Hatchback,500.0
+690,Volkswagen,Taos,2021,Nafta,5,Automática,1.4,SUV,9400.0
+691,Volkswagen,Tiguan Allspace,2019,Nafta,5,Automática,1.4,SUV,50000.0
+692,Mercedes-Benz,Clase SLK,1997,Nafta,2,Manual,2.3,Coupé,120000.0
+693,Peugeot,Partner,2017,Diésel,3,Manual,1.6,Furgón,147979.0
+694,Toyota,SW4,2013,Diésel,5,Manual,3.0,SUV,155000.0
+695,Audi,A3 Sportback,2012,Nafta,5,Manual,1.4,Hatchback,144000.0
+696,Toyota,Corolla,2017,Nafta,4,Manual,1.8,Sedán,82200.0
+697,Fiat,Cronos,2021,Nafta,4,Automática,1.8,Sedán,18000.0
+698,Honda,HR-V,2017,Nafta,5,Automática,1.8,SUV,120000.0
+699,Ford,Ka,2018,Nafta/GNC,4,Manual,1.5,Sedán,85000.0
+700,Ford,Fiesta Kinetic Design,2018,Nafta,5,Manual,1.6,Hatchback,79000.0
+701,Volkswagen,Nivus,2021,Nafta,5,Automática,1.0,SUV,16000.0
+702,Volkswagen,Amarok,2022,Diésel,4,Manual,2.0,Pick-Up,9790.0
+703,Chevrolet,Meriva,2012,Nafta,5,Manual,1.8,Monovolumen,100000.0
+704,Renault,Logan,2018,Nafta/GNC,4,Manual,1.6,Sedán,73112.0
+705,Renault,Sandero Stepway,2020,Nafta,5,Manual,1.6,Hatchback,20000.0
+706,BMW,X1,2017,Nafta,5,Manual,2.0,SUV,71500.0
+707,Volkswagen,Amarok,2015,Diésel,4,Automática,2.0,Pick-Up,145000.0
+708,Volkswagen,Vento,2014,Nafta,4,Automática,2.0,Sedán,115000.0
+709,Mercedes-Benz,Sprinter,2018,Diésel,2,Manual,2.1,Furgón,19600.0
+710,Honda,CR-V,2016,Nafta,5,Automática,2.4,SUV,105000.0
+711,BMW,Serie 1,2019,Nafta,5,Automática,1.5,Hatchback,50000.0
+712,Chevrolet,Cruze 5,2022,Nafta,5,Automática,1.4,Hatchback,7000.0
+713,Peugeot,408,2014,Nafta,4,Manual,2.0,Sedán,108000.0
+714,Chevrolet,Trailblazer,2016,Diésel,5,Automática,2.8,SUV,127000.0
+715,Volkswagen,Gol Trend,2015,Nafta,5,Manual,1.6,Hatchback,110000.0
+716,Chevrolet,Classic,2015,Nafta,4,Manual,1.4,Sedán,75000.0
+717,Chevrolet,S10,2013,Diésel,4,Manual,2.8,Pick-Up,188790.0
+718,Chevrolet,S10,2017,Diésel,4,Manual,2.8,Pick-Up,60900.0
+719,Volkswagen,Polo,2018,Nafta,5,Manual,1.6,Hatchback,46400.0
+720,Chery,Tiggo 2,2018,Nafta,5,Manual,1.5,SUV,60000.0
+721,Mitsubishi,L200,2016,Diésel,4,Manual,3.2,Pick-Up,181800.0
+722,Nissan,X-Trail,2011,Nafta,5,Manual,2.5,SUV,145000.0
+723,Mercedes-Benz,GTC,2020,Nafta,2,Automática,4.0,Roadster,900.0
+724,Jeep,Wrangler,2012,Nafta,3,Automática,3.6,SUV,65152.0
+725,Mercedes-Benz,Clase C,2020,Nafta,2,Automática,2.0,Cabriolet,12000.0
+726,Peugeot,408,2015,Nafta,4,Manual,2.0,Sedán,113000.0
+727,Mercedes-Benz,Clase A,2017,Nafta,5,Manual,1.6,Hatchback,62000.0
+728,Renault,Duster Oroch,2018,Nafta,4,Manual,2.0,SUV,60000.0
+729,Jeep,Grand Cherokee,2019,Nafta,5,Automática,6.4,SUV,49000.0
+730,Mini,Cooper Countryman,2016,Nafta,2,Manual,1.6,Hatchback,49000.0
+731,Hyundai,Tucson,2013,Nafta,5,Automática,2.0,SUV,138000.0
+732,Peugeot,3008,2013,Nafta,5,Automática,1.6,Monovolumen,107000.0
+733,Kia,Picanto,2016,Nafta,5,Automática,1.2,Hatchback,116000.0
+734,Honda,CR-V,1998,Nafta,5,Automática,2.0,SUV,200000.0
+735,Nissan,March,2017,Nafta,5,Manual,1.6,Hatchback,69000.0
+736,Volkswagen,Amarok,2021,Diésel,4,Automática,3.0,Pick-Up,70200.0
+737,Chevrolet,Spin,2019,Nafta,5,Manual,1.8,Monovolumen,39000.0
+738,Fiat,Punto,2009,Nafta,5,Manual,1.4,Hatchback,130000.0
+739,Honda,CR-V,2021,Nafta,5,Automática,2.4,SUV,50800.0
+740,Renault,Kangoo,2015,Nafta/GNC,3,Manual,1.6,Furgón,191800.0
+741,Ford,Focus III,2014,Nafta,5,Automática,2.0,Hatchback,133000.0
+742,Land Rover,Range Rover Sport,2016,Nafta,5,Automática,5.0,SUV,65000.0
+743,BMW,X5,2014,Nafta,5,Automática,3.0,SUV,45000.0
+744,Volkswagen,Polo,2016,Nafta,4,Manual,1.6,Hatchback,105000.0
+745,Ford,Ranger,2018,Diésel,4,Manual,3.2,Pick-Up,50000.0
+746,Fiat,Cronos,2022,Nafta,4,Automática,1.3,Sedán,1000.0
+747,Toyota,Etios,2022,Nafta,5,Automática,1.5,Hatchback,1035.0
+748,Ford,Ka,2016,Nafta,5,Manual,1.5,Hatchback,70000.0
+749,Chery,Tiggo,2013,Nafta,5,Manual,2.0,SUV,161000.0
+750,Fiat,Argo,2019,Nafta,5,Manual,1.8,Hatchback,69400.0
+751,Fiat,Siena,2013,Nafta/GNC,4,Manual,1.4,Sedán,85000.0
+752,Renault,Captur,2017,Nafta,5,Manual,2.0,SUV,110000.0
+753,Volkswagen,Amarok,2021,Diésel,4,Automática,2.0,Pick-Up,29500.0
+754,Jaguar,XF,2013,Nafta,4,Automática,3.0,Sedán,49000.0
+755,Ford,Fiesta Kinetic Design,2013,Nafta,5,Manual,1.6,Hatchback,119000.0
+756,Honda,HR-V,2017,Nafta,5,Automática,1.8,SUV,63000.0
+757,Fiat,Siena,2013,Nafta/GNC,4,Manual,1.4,Sedán,106000.0
+758,Ford,Ranger,2014,Diésel,4,Automática,3.2,Pick-Up,128000.0
+759,Mercedes-Benz,Clase C,2021,Nafta,2,Automática,2.0,Cabriolet,12000.0
+760,Toyota,Etios,2022,Nafta,5,Automática,1.5,Hatchback,1111.0
+761,Audi,Q3,2016,Nafta,5,Automática,1.4,SUV,90000.0
+762,Chevrolet,Trailblazer,2021,Diésel,5,Automática,2.8,SUV,23000.0
+763,Chevrolet,Classic,2016,Nafta,4,Manual,1.4,Sedán,80000.0
+764,BMW,Serie 3,2013,Nafta,4,Manual,2.0,Sedán,84000.0
+765,Volkswagen,Vento,2013,Nafta,4,Automática,2.0,Sedán,60000.0
+766,BMW,X5,2017,Nafta,5,Automática,4.4,SUV,79000.0
+767,Chevrolet,Onix,2015,Nafta,5,Manual,1.4,Hatchback,95000.0
+768,Fiat,Cronos,2021,Nafta,4,Manual,1.3,Sedán,36000.0
+769,Peugeot,3008,2017,Nafta,5,Automática,1.6,SUV,63000.0
+770,Volkswagen,Up!,2016,Nafta,5,Manual,1.0,Hatchback,93000.0
+771,Chevrolet,Cruze 5,2022,Nafta,5,Manual,1.4,Hatchback,3700.0
+772,Volkswagen,Vento,2017,Nafta,4,Manual,1.4,Sedán,87000.0
+773,Volkswagen,Golf,2017,Nafta,5,Automática,2.0,Hatchback,80800.0
+774,Ford,Focus III,2015,Nafta,5,Manual,1.6,Hatchback,120000.0
+775,Volkswagen,Amarok,2019,Diésel,4,Automática,3.0,Pick-Up,67000.0
+776,Toyota,Corolla Cross,2022,Nafta,5,Automática,2.0,SUV,3500.0
+777,Peugeot,2008,2018,Nafta,5,Manual,1.6,SUV,98000.0
+778,Chevrolet,Prisma,2017,Nafta,4,Manual,1.4,Sedán,91000.0
+779,Subaru,Forester,2018,Nafta,5,Automática,2.0,SUV,104900.0
+780,Toyota,Hilux,2016,Diésel,4,Manual,2.8,Pick-Up,120000.0
+781,BMW,X3,2017,Nafta,5,Automática,3.0,SUV,50700.0
+782,Volkswagen,Amarok,2018,Diésel,4,Automática,3.0,Pick-Up,76000.0
+783,Jeep,Compass,2018,Nafta,5,Automática,2.4,SUV,65000.0
+784,Honda,Fit,2017,Nafta,5,Automática,1.5,Hatchback,90000.0
+785,Peugeot,208,2022,Nafta,5,Automática,1.6,Hatchback,1111.0
+786,Toyota,SW4,2022,Diésel,5,Automática,2.8,SUV,1009.0
+787,Volkswagen,Amarok,2018,Diésel,4,Automática,3.0,Pick-Up,54000.0
+788,Volkswagen,Golf,2016,Nafta,5,Manual,1.6,Hatchback,40000.0
+789,Fiat,Palio,2017,Nafta,5,Manual,1.4,Hatchback,66000.0
+790,Toyota,Hilux,2019,Diésel,4,Manual,2.8,Pick-Up,41000.0
+791,Volkswagen,Up!,2018,Nafta,5,Manual,1.0,Hatchback,37000.0
+792,Renault,Kangoo,2018,Nafta/GNC,3,Manual,1.6,Furgón,138000.0
+793,Jeep,Renegade,2020,Nafta,5,Automática,1.8,SUV,31000.0
+794,Volkswagen,Amarok,2019,Diésel,4,Automática,3.0,Pick-Up,39000.0
+795,Chevrolet,Cruze,2022,Nafta,4,Automática,1.4,Sedán,1111.0
+796,Toyota,Hilux,2019,Diésel,4,Manual,2.8,Pick-Up,49000.0
+797,BMW,X6,2016,Nafta,5,Automática,3.0,SUV,32500.0
+798,Fiat,Uno,2013,Nafta,5,Manual,1.4,Hatchback,138000.0
+799,Chevrolet,Sonic,2015,Nafta,5,Automática,1.6,Hatchback,127000.0
+800,Renault,Kwid,2018,Nafta,5,Manual,1.0,Hatchback,50000.0
+801,Toyota,Corolla,2019,Nafta,4,Automática,1.8,Sedán,47067.0
+802,Nissan,March,2019,Nafta,5,Automática,1.6,Hatchback,35725.0
+803,Toyota,Corolla,2018,Nafta,4,Manual,1.8,Sedán,89339.0
+804,Nissan,X-Trail,2006,Nafta,5,Automática,2.5,SUV,145000.0
+805,Chevrolet,S10,2020,Diésel,4,Manual,2.8,Pick-Up,55000.0
+806,Nissan,NP300,2016,Diésel,4,Manual,2.3,Pick-Up,148000.0
+807,Jeep,Renegade,2023,Nafta,5,Manual,1.8,SUV,1800.0
+808,Citroën,C3 Picasso,2014,Nafta,5,Manual,1.5,Hatchback,50000.0
+809,Ford,Kuga,2011,Nafta,5,Automática,2.5,SUV,130000.0
+810,Renault,Duster,2016,Nafta,5,Manual,2.0,SUV,137900.0
+811,Nissan,Versa,2019,Nafta,4,Manual,1.6,Sedán,57000.0
+812,Volkswagen,Polo,2017,Nafta,5,Automática,1.6,Hatchback,129000.0
+813,Ford,Ecosport,2020,Nafta,5,Manual,1.5,SUV,34387.0
+814,Volkswagen,Golf,2002,Nafta,5,Manual,1.6,Hatchback,86700.0
+815,Volkswagen,Tiguan Allspace,2018,Nafta,5,Automática,2.0,SUV,70000.0
+816,Toyota,Hilux,2021,Diésel,4,Automática,2.8,Pick-Up,21638.0
+817,Chery,Tiggo 2,2019,Nafta,5,Manual,1.5,SUV,41864.0
+818,Renault,Duster,2013,Nafta,5,Manual,1.6,SUV,96144.0
+819,Toyota,Etios,2020,Nafta,4,Manual,1.5,Sedán,31716.0
+820,Toyota,Etios,2021,Nafta,4,Automática,1.5,Sedán,64778.0
+821,Volkswagen,Up!,2017,Nafta,3,Manual,1.0,Hatchback,53455.0
+822,Ford,Ranger,2016,Diésel,4,Automática,3.2,Pick-Up,72000.0
+823,Mitsubishi,L200,2020,Diésel,4,Automática,2.4,Pick-Up,50000.0
+824,Renault,Duster,2011,Nafta,5,Manual,2.0,SUV,115000.0
+825,Ford,Ranger,2018,Diésel,4,Manual,3.2,Pick-Up,84500.0
+826,DS,DS3 Crossback,2022,Nafta,5,Automática,1.2,Hatchback,62000.0
+827,Ford,Focus III,2017,Nafta,5,Manual,2.0,Hatchback,117000.0
+828,Chevrolet,Tracker,2017,Nafta,5,Automática,1.8,SUV,99000.0
+829,Ford,Focus III,2014,Nafta,5,Manual,1.6,Hatchback,132000.0
+830,Volkswagen,Amarok,2016,Diésel,4,Manual,2.0,Pick-Up,112900.0
+831,Toyota,SW4,2022,Diésel,4,Automática,2.8,Pick-Up,1100.0
+832,Jeep,Renegade,2018,Nafta,5,Manual,1.8,SUV,40000.0
+833,Jeep,Grand Cherokee,2014,Nafta,5,Automática,3.6,SUV,140000.0
+834,Chevrolet,Classic,2014,Nafta,4,Manual,1.4,Sedán,79000.0
+835,Renault,Sandero,2015,Nafta,5,Manual,1.6,Hatchback,82000.0
+836,Audi,Q3,2016,Nafta,5,Automática,1.4,SUV,175000.0
+837,BMW,X1,2018,Nafta,5,Manual,2.0,SUV,39870.0
+838,Ford,Ranger,2020,Nafta,4,Manual,2.5,Pick-Up,43044.0
+839,Volkswagen,Amarok,2019,Diésel,4,Automática,3.0,Pick-Up,65000.0
+840,Ford,Focus II,2012,Nafta,5,Manual,1.6,Hatchback,60000.0
+841,Volkswagen,Vento,2016,Nafta,4,Automática,2.5,Sedán,86000.0
+842,Volkswagen,Amarok,2016,Diésel,4,Automática,2.0,Pick-Up,28000.0
+843,Jeep,Grand Cherokee,2008,Diésel,5,Automática,3.0,SUV,200000.0
+844,Chevrolet,Tracker,2019,Nafta,5,Manual,1.8,SUV,63000.0
+845,Peugeot,208,2015,Nafta,5,Manual,1.5,Hatchback,92000.0
+846,Toyota,Etios,2016,Nafta,4,Manual,1.5,Sedán,60656.0
+847,Ford,Mondeo,2017,Nafta,4,Automática,2.0,Sedán,75000.0
+848,Chevrolet,Prisma,2014,Nafta,4,Manual,1.4,Sedán,98000.0
+849,Peugeot,2008,2017,Nafta,5,Manual,1.6,SUV,81000.0
+850,Honda,Fit,2012,Nafta,5,Automática,1.5,Hatchback,113800.0
+851,Renault,Clio,2004,Nafta,3,Manual,1.2,Hatchback,143000.0
+852,Toyota,Hilux,2017,Diésel,4,Automática,2.8,Pick-Up,225000.0
+853,Fiat,Mobi,2016,Nafta,5,Manual,1.0,Hatchback,85000.0
+854,Ford,Focus II,2012,Nafta,5,Manual,2.0,Hatchback,115000.0
+855,Ford,Mustang,2006,Nafta,2,Manual,5.0,Coupé,90000.0
+856,Citroën,Xsara Picasso,2009,Nafta,5,Manual,1.6,Monovolumen,156000.0
+857,Ford,Focus II,2012,Nafta,5,Manual,2.0,Hatchback,95500.0
+858,Chery,Chery QQ,2017,Nafta,5,Manual,1.0,Hatchback,33500.0
+859,Fiat,Strada,2021,Nafta,3,Manual,1.4,Pick-Up,8342.0
+860,Dodge,Journey,2014,Nafta,5,Automática,3.6,SUV,62500.0
+861,Kia,Rio,2022,Nafta,5,Automática,1.6,Hatchback,5000.0
+862,Fiat,Toro,2020,Diésel,4,Automática,2.0,Pick-Up,83000.0
+863,Fiat,500,2019,Nafta,3,Manual,1.4,Hatchback,32000.0
+864,Peugeot,208,2016,Nafta,5,Manual,1.6,Hatchback,78000.0
+865,Fiat,500,2015,Nafta,2,Automática,1.4,Hatchback,65000.0
+866,Citroën,C4 Lounge,2017,Nafta,4,Manual,1.6,Sedán,125000.0
+867,Toyota,Hilux,2021,Diésel,4,Automática,2.8,Pick-Up,21000.0
+868,Ford,Kuga,2019,Nafta,5,Automática,2.0,SUV,131000.0
+869,Jeep,Grand Cherokee,2021,Nafta,5,Automática,6.4,SUV,11000.0
+870,Chery,Chery QQ,2011,Nafta,5,Manual,1.1,Hatchback,108000.0
+871,Chevrolet,Onix,2020,Nafta,5,Automática,1.0,Hatchback,52000.0
+872,Jaguar,XE,2017,Nafta,4,Automática,2.0,Hatchback,22000.0
+873,Ford,Fiesta Kinetic Design,2019,Nafta,5,Manual,1.6,Hatchback,32000.0
+874,Volkswagen,Golf,2017,Nafta,5,Manual,1.6,Hatchback,83000.0
+875,Ford,Ka,2018,Nafta,4,Manual,1.5,Sedán,65000.0
+876,Toyota,SW4,2019,Diésel,5,Automática,2.8,SUV,69500.0
+877,Fiat,Punto,2009,Nafta,5,Manual,1.4,Hatchback,194000.0
+878,Chevrolet,Trailblazer,2021,Diésel,5,Automática,2.8,SUV,25000.0
+879,Nissan,NP300,2019,Diésel,4,Manual,2.3,Pick-Up,44000.0
+880,Chevrolet,Corsa,2009,Nafta,5,Manual,1.8,Sedán,162000.0
+881,Fiat,Argo,2020,Nafta,5,Manual,1.8,Hatchback,61000.0
+882,Peugeot,2008,2017,Nafta,5,Manual,1.6,SUV,88200.0
+883,Chevrolet,Onix,2022,Nafta,5,Manual,1.2,Hatchback,1500.0
+884,Hyundai,H1,2015,Diésel,5,Automática,2.5,Monovolumen,9000.0
+885,Renault,Duster,2012,Nafta,5,Manual,1.6,SUV,180000.0
+886,Peugeot,308,2011,Nafta,2,Automática,1.6,Coupé,90000.0
+887,Audi,S3,2017,Nafta,4,Automática,2.0,Sedán,29000.0
+888,Ford,F-100,1998,Diésel,2,Manual,4.3,Pick-Up,38000.0
+889,Toyota,SW4,2018,Diésel,5,Automática,2.8,SUV,69000.0
+891,Mercedes-Benz,Clase A,2014,Nafta,5,Automática,2.0,Hatchback,133000.0
+892,Renault,Logan,2017,Nafta,4,Manual,1.6,Sedán,122000.0
+893,Jeep,Commander,2022,Diésel,5,Automática,2.0,SUV,20000.0
+894,Volkswagen,Golf,2012,Nafta,5,Manual,2.0,Hatchback,140000.0
+895,Fiat,Argo,2017,Nafta,5,Manual,1.8,Hatchback,26000.0
+896,Renault,Kangoo,2017,Nafta/GNC,4,Manual,1.6,Monovolumen,140000.0
+897,Ford,Focus III,2016,Nafta,5,Manual,1.6,Hatchback,60000.0
+898,Fiat,Mobi,2017,Nafta,5,Manual,1.0,Hatchback,66000.0
+899,Renault,Logan,2016,Nafta,4,Manual,1.6,Sedán,89000.0
+900,Peugeot,208,2016,Nafta,5,Manual,1.5,Hatchback,69500.0
+901,Volkswagen,Vento Variant,2011,Nafta,4,Manual,2.5,Rural,160000.0
+902,Toyota,Hilux,2020,Diésel,4,Manual,2.8,Pick-Up,17000.0
+903,Toyota,Hilux,2019,Diésel,4,Automática,2.8,Pick-Up,64000.0
+904,BMW,X5,2015,Nafta,5,Automática,3.0,SUV,94000.0
+905,Renault,Kangoo,2022,Nafta,5,Manual,1.6,Furgón,1000.0
+906,Citroën,C4 Lounge,2016,Diésel,4,Manual,1.6,Sedán,130000.0
+907,Ford,Focus III,2017,Nafta,5,Manual,1.6,Hatchback,112000.0
+908,Peugeot,207,2012,Nafta,3,Manual,1.4,Hatchback,109000.0
+909,Fiat,Doblo Cargo,2018,Nafta,4,Manual,1.4,Monovolumen,62000.0
+910,BMW,Serie 4,2017,Nafta,2,Automática,2.0,Coupé,25100.0
+911,Peugeot,408,2012,Nafta,4,Manual,2.0,Sedán,78000.0
+912,Renault,Duster,2016,Nafta,5,Manual,2.0,SUV,85000.0
+913,Ford,Mustang,2006,Nafta,2,Manual,5.0,Coupé,79000.0
+914,Ford,Explorer,1995,Nafta,5,Manual,4.0,SUV,111111.0
+915,Peugeot,208,2014,Nafta,5,Manual,1.6,Hatchback,66000.0
+916,Fiat,500,2020,Nafta,3,Manual,1.4,Hatchback,25000.0
+917,Citroën,C4 Lounge,2018,Nafta,4,Manual,1.6,Sedán,231000.0
+918,Chevrolet,Cruze,2012,Nafta,4,Manual,1.8,Sedán,124100.0
+919,Alfa Romeo,Mito,2014,Nafta,3,Manual,1.4,Hatchback,19000.0
+920,Audi,A1 Sportback,2020,Nafta,5,Automática,1.0,Hatchback,21000.0
+921,Ford,Ecosport,2017,Nafta,5,Manual,1.5,SUV,60000.0
+922,Volkswagen,Amarok,2019,Diésel,4,Automática,3.0,Pick-Up,83000.0
+923,Honda,HR-V,2018,Nafta,5,Automática,1.8,SUV,65000.0
+924,Hyundai,i10,2011,Nafta,5,Manual,1.2,Hatchback,120000.0
+925,Mercedes-Benz,ML,2007,Nafta,5,Automática,3.2,SUV,207000.0
+926,Volkswagen,Amarok,2023,Diésel,4,Manual,2.0,Pick-Up,1111.0
+927,Fiat,Toro,2022,Diésel,4,Automática,2.0,Pick-Up,1000.0
+928,Toyota,Hilux,2019,Diésel,4,Manual,2.8,Pick-Up,49000.0
+929,Volkswagen,Up!,2015,Nafta,3,Manual,1.0,Hatchback,100000.0
+930,Volkswagen,Amarok,2022,Diésel,4,Automática,2.0,Pick-Up,1111.0
+931,Toyota,Hilux,2022,Diésel,4,Automática,2.8,Pick-Up,500.0
+932,Toyota,SW4,2022,Diésel,5,Automática,2.8,SUV,15000.0
+933,Fiat,Pulse,2022,Nafta,5,Manual,1.3,SUV,1000.0
+934,Fiat,Palio,2012,Nafta,5,Manual,1.6,Rural,84000.0
+935,Fiat,Cronos,2022,Nafta,4,Manual,1.3,Sedán,10000.0
+936,Fiat,Cronos,2023,Nafta,4,Manual,1.3,Sedán,1000.0
+937,Peugeot,408,2012,Nafta,4,Automática,2.0,Sedán,86521.0
+938,Toyota,Etios,2015,Nafta,5,Manual,1.5,Hatchback,44750.0
+939,Volkswagen,Polo,2019,Nafta,5,Manual,1.6,Hatchback,37000.0
+940,Chevrolet,S10,2020,Diésel,4,Manual,2.8,Pick-Up,40108.0
+941,BMW,Serie 2,2017,Nafta,2,Automática,3.0,Coupé,71000.0
+942,Peugeot,408,2017,Nafta,4,Automática,1.6,Sedán,79061.0
+943,Volkswagen,Suran,2013,Nafta,5,Manual,1.6,Monovolumen,120000.0
+944,Volkswagen,Amarok,2020,Diésel,4,Automática,2.0,Pick-Up,160000.0
+945,Toyota,Etios,2023,Nafta,5,Automática,1.5,Hatchback,111111.0
+946,Ford,Ecosport,2013,Nafta,5,Manual,1.6,SUV,111584.0
+947,Ford,Ranger,2021,Diésel,4,Automática,2.2,Pick-Up,20000.0
+948,Volkswagen,Voyage,2015,Nafta,4,Manual,1.6,Sedán,160000.0
+949,Renault,Sandero,2016,Nafta,5,Manual,1.6,Hatchback,76700.0
+950,Citroën,DS4,2013,Nafta,5,Automática,1.6,Hatchback,85100.0
+951,Nissan,Kicks,2018,Nafta,5,Automática,1.6,Hatchback,52000.0
+952,Citroën,C3,2014,Nafta,5,Manual,1.6,Hatchback,126000.0
+953,Toyota,Etios,2014,Nafta,4,Manual,1.5,Sedán,63879.0
+954,Land Rover,Discovery,2007,Diésel,5,Automática,2.7,SUV,172000.0
+955,Toyota,SW4,2022,Diésel,5,Automática,2.8,SUV,42000.0
+956,Peugeot,208,2022,Nafta,5,Manual,1.6,Hatchback,1500.0
+957,Ford,Focus II,2012,Nafta,5,Manual,1.6,Hatchback,98000.0
+958,Ford,Territory,2023,Nafta,5,Automática,1.5,SUV,500.0
+959,Jeep,Renegade,2019,Nafta,5,Manual,1.8,SUV,95000.0
+960,Volkswagen,Amarok,2021,Diésel,4,Automática,2.0,Pick-Up,29205.0
+961,Volkswagen,Amarok,2019,Diésel,4,Automática,3.0,Pick-Up,145000.0
+962,Chevrolet,S10,2019,Diésel,4,Manual,2.8,Pick-Up,70000.0
+963,Chevrolet,Onix,2018,Nafta,5,Manual,1.4,Hatchback,37000.0
+964,Jeep,Renegade,2018,Nafta,5,Automática,1.8,SUV,50000.0
+965,Peugeot,308,2014,Nafta,5,Manual,1.6,Hatchback,126000.0
+966,Volkswagen,Golf,2019,Nafta,5,Automática,1.4,Hatchback,73000.0
+967,Volkswagen,Gol Trend,2020,Nafta,5,Automática,1.6,Hatchback,21000.0
+968,Volkswagen,Gol Trend,2016,Nafta,5,Manual,1.6,Hatchback,32200.0
+969,Chevrolet,Tracker,2016,Nafta,5,Automática,1.8,SUV,118068.0
+970,Renault,Duster,2016,Nafta,5,Manual,2.0,SUV,106000.0
+971,Volkswagen,Suran,2017,Nafta,5,Manual,1.6,Monovolumen,67977.0
+972,Toyota,Corolla,2022,Híbrido/Nafta,4,Automática,1.8,Sedán,8452.0
+973,Volkswagen,Vento,2018,Nafta,4,Automática,1.4,Sedán,86000.0
+974,Renault,Duster,2013,Nafta,5,Manual,2.0,SUV,83318.0
+975,Fiat,Fiorino,2018,Nafta,3,Manual,1.4,Furgón,60000.0
+976,RAM,2500,2014,Diésel,4,Automática,6.7,Pick-Up,149000.0
+977,Volkswagen,Vento,2018,Nafta,4,Manual,2.0,Sedán,44000.0
+978,Mercedes-Benz,Clase A,2019,Nafta,5,Automática,1.6,Hatchback,19000.0
+979,BMW,X6,2011,Nafta,5,Automática,3.0,SUV,59995.0
+980,Toyota,Etios,2016,Nafta,4,Manual,1.5,Sedán,104195.0
+981,Chevrolet,Prisma,2019,Nafta/GNC,4,Manual,1.4,Sedán,50000.0
+982,Citroën,Jumpy,2018,Diésel,3,Manual,1.6,Furgón,64500.0
+983,Jeep,Compass,2012,Nafta,5,Automática,2.4,SUV,83800.0
+984,Mercedes-Benz,Clase A,2013,Nafta,5,Automática,2.0,Hatchback,75000.0
+985,Volkswagen,Voyage,2015,Nafta,4,Manual,1.6,Sedán,90000.0
+986,Renault,Duster,2011,Nafta,5,Manual,2.0,SUV,127000.0
+987,Volkswagen,Amarok,2021,Diésel,4,Automática,3.0,Pick-Up,50000.0
+988,Citroën,C3,2018,Nafta,5,Manual,1.6,Hatchback,11750.0
+989,Chevrolet,Trailblazer,2016,Diésel,5,Automática,2.8,SUV,127000.0
+990,Toyota,Corolla,2010,Nafta,4,Manual,1.8,Sedán,180000.0
+991,Ford,Territory,2021,Nafta,5,Automática,1.5,SUV,7000.0
+992,Ford,Focus III,2017,Nafta,5,Manual,1.6,Hatchback,38000.0
+993,Volkswagen,Amarok,2014,Diésel,2,Manual,2.0,Pick-Up,91700.0
+994,Ford,Transit,2022,Diésel,2,Manual,2.2,Furgón,1000.0
+995,Audi,A4,2010,Nafta,4,Automática,2.0,Sedán,145000.0
+996,Fiat,Linea,2016,Nafta,4,Manual,1.8,Sedán,109700.0
+997,Ford,Focus,2019,Nafta,5,Manual,2.0,Hatchback,63115.0
+998,Chevrolet,Agile,2012,Nafta,5,Manual,1.4,Hatchback,75000.0
+999,Nissan,March,2019,Nafta,5,Manual,1.6,Hatchback,75000.0
+1000,Mercedes-Benz,Clase C,2018,Nafta,2,Automática,3.0,Coupé,7000.0
+1001,Ford,Ka,2017,Nafta,5,Manual,1.5,Hatchback,50000.0
+1002,Kia,Rio,2013,Nafta,5,Automática,1.4,Hatchback,76454.0
+1003,Toyota,Hilux,2021,Diésel,4,Automática,2.8,Pick-Up,57000.0
+1004,Mercedes-Benz,Clase C,2017,Nafta,2,Manual,2.0,Coupé,69000.0
+1005,Volkswagen,Tiguan Allspace,2018,Nafta,5,Automática,2.0,SUV,60000.0
+1006,Peugeot,RCZ,2013,Nafta,2,Manual,1.6,Coupé,20000.0
+1007,BMW,Serie 4,2022,Nafta,2,Automática,3.0,Coupé,1111.0
+1008,Renault,Sandero Stepway,2012,Nafta,5,Manual,1.6,Hatchback,130000.0
+1009,Toyota,SW4,2022,Diésel,5,Automática,2.8,SUV,1000.0
+1010,Chevrolet,Cruze,2020,Nafta,4,Manual,1.4,Sedán,35000.0
+1011,Fiat,Mobi,2020,Nafta,5,Manual,1.0,Hatchback,35000.0
+1012,Volkswagen,Amarok,2022,Diésel,4,Automática,3.0,Pick-Up,18000.0
+1013,Toyota,SW4,2022,Diésel,5,Automática,2.8,SUV,1111.0
+1014,Jeep,Grand Cherokee,2019,Nafta,5,Automática,6.4,SUV,11000.0
+1015,Volkswagen,Virtus,2022,Nafta,4,Automática,1.6,Sedán,6500.0
+1016,Volkswagen,Up!,2016,Nafta,5,Manual,1.0,Hatchback,86000.0
+1017,Audi,A1,2012,Nafta,3,Automática,1.4,Hatchback,83150.0
+1018,Audi,Q5,2021,Nafta,5,Automática,2.0,SUV,57000.0
+1019,Toyota,Hilux,2022,Diésel,4,Automática,2.8,Pick-Up,1000.0
+1020,Mercedes-Benz,Clase GLC,2017,Nafta,5,Automática,3.0,SUV,65000.0
+1021,Fiat,500,2014,Nafta,3,Manual,1.4,Hatchback,70000.0
+1022,Nissan,Note,2015,Nafta,5,Manual,1.6,Hatchback,130000.0
+1023,Volkswagen,Nivus,2021,Nafta,5,Automática,1.0,SUV,19000.0
+1024,BMW,X3,2010,Nafta,5,Manual,2.5,SUV,165000.0
+1025,Citroën,C3,2018,Nafta,5,Manual,1.6,Hatchback,68000.0
+1026,Audi,A3 Sportback,2007,Nafta,5,Automática,1.6,Rural,135000.0
+1027,Chevrolet,Sonic,2016,Nafta,5,Automática,1.6,Hatchback,51111.0
+1028,Volkswagen,Suran,2015,Nafta,5,Automática,1.6,Monovolumen,106700.0
+1029,Chevrolet,Onix,2015,Nafta,5,Manual,1.4,Hatchback,50800.0
+1030,Mercedes-Benz,Clase GLE,2016,Nafta,5,Automática,3.0,SUV,66000.0
+1031,Chevrolet,Corsa,2009,Nafta/GNC,5,Manual,1.8,Sedán,112000.0
+1032,Alfa Romeo,Giulia,2019,Nafta,5,Automática,2.0,Sedán,27000.0
+1033,Toyota,Hilux,2022,Diésel,4,Automática,2.8,Pick-Up,13000.0
+1034,Volkswagen,Tiguan Allspace,2021,Nafta,5,Automática,2.0,SUV,40000.0
+1035,Audi,A3,2016,Nafta,4,Automática,1.4,Sedán,99000.0
+1036,Ford,Fiesta Kinetic Design,2014,Nafta,4,Manual,1.6,Sedán,94000.0
+1037,Citroën,Aircross,2017,Nafta,5,Manual,1.6,Hatchback,64000.0
+1038,Honda,Fit,2010,Nafta,5,Automática,1.5,Hatchback,190000.0
+1039,Fiat,Toro,2019,Diésel,4,Automática,2.0,Pick-Up,50180.0
+1040,Fiat,Toro,2019,Diésel,4,Automática,2.0,Pick-Up,50000.0
+1041,Volkswagen,Amarok,2015,Diésel,4,Manual,2.0,Pick-Up,76700.0
+1042,Ford,Ranger,2019,Diésel,4,Automática,3.2,Pick-Up,40000.0
+1043,Fiat,Cronos,2022,Nafta,4,Automática,1.8,Sedán,1111.0
+1044,Volkswagen,Vento,2013,Nafta,4,Automática,2.0,Sedán,99761.0
+1045,Volkswagen,Bora,2010,Nafta,4,Automática,2.0,Sedán,197000.0
+1046,Volkswagen,Golf,2018,Nafta,5,Automática,1.4,Hatchback,65000.0
+1047,Renault,Duster,2012,Nafta,5,Manual,2.0,SUV,112900.0
+1048,Toyota,SW4,2017,Diésel,5,Manual,2.8,SUV,100000.0
+1049,Ford,Kuga,2013,Nafta,5,Automática,1.6,SUV,84000.0
+1050,Audi,Q2,2020,Nafta,5,Automática,1.0,SUV,46500.0
+1051,Jeep,Renegade,2018,Nafta,5,Automática,1.8,SUV,52000.0
+1052,Citroën,C3,2013,Nafta,5,Manual,1.6,Hatchback,102122.0
+1053,Chevrolet,Onix,2013,Nafta,5,Manual,1.4,Hatchback,95000.0
+1054,BMW,X2,2019,Nafta,5,Automática,2.0,SUV,39500.0
+1055,Citroën,C3,2013,Nafta,5,Manual,1.6,Hatchback,195000.0
+1056,Ford,Fiesta Kinetic Design,2016,Nafta,4,Manual,1.6,Sedán,87000.0
+1057,Ford,Transit,2022,Diésel,2,Manual,2.2,Furgón,1000.0
+1058,Ford,Ecosport,2019,Nafta,5,Automática,2.0,SUV,28300.0
+1059,Toyota,Hilux,2021,Diésel,4,Automática,2.8,Pick-Up,41600.0
+1060,Renault,Fluence,2011,Nafta,4,Manual,2.0,Sedán,145000.0
+1061,Iveco,Daily,2022,Diésel,2,Manual,3.0,Light Truck,111111.0
+1062,Mercedes-Benz,ML,2008,Nafta,5,Automática,3.5,SUV,160000.0
+1063,Chevrolet,Spin,2017,Nafta,5,Manual,1.8,Monovolumen,101000.0
+1064,Peugeot,308,2015,Nafta,5,Automática,1.6,Hatchback,70000.0
+1065,Toyota,Hilux,2021,Diésel,4,Automática,2.8,Pick-Up,41683.0
+1066,Fiat,Palio,2017,Nafta,5,Manual,1.4,Hatchback,45000.0
+1067,Ford,Focus III,2015,Nafta,5,Manual,1.6,Hatchback,97000.0
+1068,Volkswagen,Suran,2015,Nafta,5,Manual,1.6,Monovolumen,99000.0
+1069,Kia,Carnival,2016,Diésel,5,Automática,2.2,Monovolumen,125491.0
+1070,BMW,X4,2015,Nafta,5,Automática,3.0,SUV,79000.0
+1071,Mercedes-Benz,ML,2014,Nafta,5,Automática,3.5,SUV,150000.0
+1072,Toyota,Hilux,2018,Diésel,4,Automática,2.8,Pick-Up,80000.0
+1073,Jeep,Renegade,2022,Nafta,5,Manual,1.8,SUV,111111.0
+1074,Jeep,Compass,2022,Nafta,5,Automática,1.3,SUV,1000.0
+1075,Volkswagen,Amarok,2020,Diésel,4,Manual,2.0,Pick-Up,62000.0
+1076,Volkswagen,Amarok,2012,Diésel,4,Manual,2.0,Pick-Up,195000.0
+1077,Volkswagen,Amarok,2017,Diésel,4,Automática,2.0,Pick-Up,177000.0
+1078,Ford,Focus II,2009,Diésel,5,Manual,1.8,Hatchback,185000.0
+1079,Toyota,Etios,2019,Nafta,4,Manual,1.5,Sedán,87000.0
+1080,Ford,F-150,2020,Nafta,4,Automática,5.0,Pick-Up,13300.0
+1081,Volkswagen,Gol,2013,Nafta,3,Manual,1.4,Hatchback,78000.0
+1082,Audi,A4,2018,Nafta,4,Manual,2.0,Sedán,72913.0
+1083,Audi,Q3,2014,Nafta,5,Manual,2.0,SUV,115000.0
+1084,Audi,RS3,2019,Nafta,4,Automática,2.5,Sedán,38000.0
+1085,Chevrolet,Cruze,2019,Nafta,4,Manual,4.0,Sedán,42000.0
+1086,Toyota,Yaris,2018,Nafta,5,Automática,1.5,Hatchback,75000.0
+1087,Mercedes-Benz,Clase C,2020,Nafta,2,Automática,2.0,Cabriolet,13900.0
+1088,Toyota,Hilux,2019,Diésel,4,Manual,2.8,Pick-Up,53000.0
+1089,Chevrolet,Corsa,1998,Nafta,2,Manual,1.6,Hatchback,1500.0
+1090,Smart,Forfour,2016,Nafta,5,Manual,1.0,Hatchback,45000.0
+1091,Renault,Kangoo,2022,Nafta,3,Manual,1.6,Furgón,720.0
+1092,Ford,Ecosport,2018,Nafta,5,Manual,1.5,SUV,118000.0
+1093,Volkswagen,Amarok,2019,Diésel,4,Automática,3.0,Pick-Up,69000.0
+1094,Peugeot,207,2013,Nafta,3,Manual,1.6,Hatchback,84000.0
+1095,Iveco,Daily,2017,Diésel,2,Manual,3.0,Furgón,32000.0
+1096,Renault,Sandero Stepway,2015,Nafta,5,Manual,1.6,Hatchback,64000.0
+1097,BMW,Serie 5,2017,Nafta,4,Automática,3.0,Sedán,65800.0
+1098,Ford,Ranger,2013,Diésel,4,Manual,3.2,Pick-Up,138000.0
+1099,Renault,Duster Oroch,2018,Nafta,5,Manual,2.0,SUV,86000.0
+1100,Ford,Ka,2019,Nafta,5,Manual,1.5,Hatchback,28300.0
+1101,Chevrolet,Onix,2013,Nafta,5,Manual,1.4,Hatchback,84000.0
+1102,Peugeot,408,2013,Nafta,4,Manual,2.0,Sedán,134000.0
+1103,Smart,Forfour,2016,Nafta,5,Automática,1.0,Hatchback,52000.0
+1104,Mercedes-Benz,Clase GLE,2020,Nafta,5,Automática,3.0,SUV,26500.0
+1105,Ford,Ecosport,2011,Nafta,5,Manual,1.6,SUV,192000.0
+1106,Jeep,Renegade,2023,Nafta,5,Automática,1.8,SUV,1800.0
+1107,Peugeot,308,2013,Nafta,5,Manual,1.6,Hatchback,77000.0
+1108,Renault,Scénic,2005,Nafta/GNC,5,Manual,1.6,Monovolumen,300000.0
+1109,Volkswagen,Vento,2014,Nafta,4,Manual,2.0,Sedán,97000.0
+1110,Volkswagen,Fox,2009,Nafta,5,Manual,1.6,Hatchback,128000.0
+1111,Volkswagen,Passat,2017,Nafta,4,Automática,2.0,Sedán,71400.0
+1112,Renault,Duster Oroch,2019,Nafta,4,Manual,2.0,SUV,47003.0
+1113,Jeep,Renegade,2019,Nafta,5,Automática,1.8,SUV,101000.0
+1114,Peugeot,Partner,2017,Diésel,3,Manual,1.6,Furgón,147000.0
+1115,Nissan,Versa,2014,Nafta,4,Manual,1.6,Sedán,72500.0
+1116,Peugeot,2008,2018,Nafta,5,Manual,1.6,SUV,65000.0
+1117,Ford,Ecosport,2022,Nafta,5,Manual,1.5,SUV,1111.0
+1118,Volkswagen,Bora,2009,Nafta,4,Manual,2.0,Sedán,173321.0
+1119,Peugeot,Partner,2017,Diésel,3,Manual,1.6,Hatchback,156000.0
+1120,Chevrolet,Onix,2018,Nafta,5,Manual,1.4,Hatchback,62000.0
+1121,Peugeot,308,2014,Nafta,5,Manual,1.6,Hatchback,106000.0
+1122,Volkswagen,Saveiro,2018,Nafta,2,Manual,1.6,Pick-Up,77200.0
+1123,Peugeot,208,2023,Nafta,5,Manual,1.6,Hatchback,500.0
+1124,Volkswagen,Polo,2021,Nafta,5,Automática,1.4,Hatchback,26000.0
+1125,Ford,Focus III,2016,Nafta,5,Automática,2.0,Hatchback,100000.0
+1126,Chevrolet,Prisma,2019,Nafta,4,Manual,1.4,Sedán,68000.0
+1127,Honda,Civic,2015,Nafta,4,Automática,1.8,Sedán,88000.0
+1128,Volkswagen,Golf Variant,2017,Nafta,5,Automática,1.4,Rural,75000.0
+1129,Toyota,Corolla,2023,Nafta,4,Automática,2.0,Sedán,1111.0
+1130,Chevrolet,Cruze,2019,Nafta,5,Automática,1.4,Hatchback,30000.0
+1131,Renault,Sandero,2017,Nafta,5,Manual,1.6,Hatchback,61000.0
+1132,Renault,Oroch,2022,Nafta,4,Manual,1.3,Pick-Up,500.0
+1133,Kia,Cerato,2020,Nafta,4,Automática,2.0,Sedán,86000.0
+1134,Toyota,Hilux,1997,Diésel,4,Manual,2.8,Pick-Up,330000.0
+1135,Volkswagen,Amarok,2013,Diésel,4,Manual,2.0,Pick-Up,140000.0
+1136,Peugeot,2008,2016,Nafta,5,Manual,1.6,SUV,88700.0
+1137,Peugeot,208,2020,Nafta,5,Manual,1.6,Hatchback,57000.0
+1138,Nissan,March,2018,Nafta,5,Manual,1.6,Hatchback,65000.0
+1139,Fiat,Toro,2018,Diésel,4,Manual,2.0,Pick-Up,42400.0
+1140,Chevrolet,S10,2012,Diésel,4,Manual,2.8,Pick-Up,160500.0
+1141,Peugeot,208,2019,Nafta,5,Manual,1.6,Hatchback,50333.0
+1142,Mercedes-Benz,Clase CLC,2011,Nafta,2,Manual,2.5,Coupé,100000.0
+1143,Peugeot,208,2015,Nafta,5,Manual,1.5,Hatchback,103000.0
+1144,Chevrolet,Trailblazer,2016,Diésel,5,Automática,2.8,SUV,126000.0
+1145,Volkswagen,Up!,2015,Nafta,5,Manual,1.0,Hatchback,111000.0
+1146,BMW,X1,2016,Nafta,5,Manual,2.0,SUV,66000.0
+1147,Chevrolet,Onix,2018,Nafta,5,Manual,1.4,Hatchback,48000.0
+1148,Ford,Ranger,2015,Diésel,4,Automática,3.2,Pick-Up,149000.0
+1149,Mercedes-Benz,Clase C,2010,Nafta,4,Automática,1.8,Sedán,127000.0
+1150,Kia,Rio,2022,Nafta,5,Automática,1.6,Hatchback,6000.0
+1151,Volkswagen,Fox,2016,Nafta,5,Manual,1.6,Hatchback,58000.0
+1152,Volkswagen,Bora,2013,Nafta,4,Manual,2.0,Sedán,112500.0
+1153,Volkswagen,Nivus,2021,Nafta,5,Automática,1.0,SUV,14500.0
+1154,RAM,1500,2017,Nafta,4,Automática,5.7,Pick-Up,4450.0
+1155,Smart,Fortwo,2016,Nafta,3,Automática,1.0,Hatchback,67000.0
+1156,Peugeot,408,2017,Nafta,4,Automática,1.6,Sedán,61700.0
+1157,Volkswagen,Passat,2010,Nafta,4,Automática,2.0,Sedán,128000.0
+1158,Honda,HR-V,2019,Nafta,5,Automática,1.8,SUV,48000.0
+1159,Peugeot,RCZ,2012,Nafta,2,Manual,1.6,Coupé,70000.0
+1160,Peugeot,2008,2017,Nafta,5,Manual,1.6,SUV,53300.0
+1161,Chevrolet,Onix,2020,Nafta,5,Manual,1.4,Hatchback,25000.0
+1162,Ford,Ranger,2017,Diésel,4,Automática,3.2,Pick-Up,42000.0
+1163,Peugeot,308,2014,Diésel,5,Manual,1.6,Hatchback,157300.0
+1164,Ford,Ecosport,2018,Nafta,5,Manual,1.5,SUV,39500.0
+1165,Peugeot,308,2017,Nafta,5,Manual,1.6,Hatchback,103500.0
+1166,Hyundai,Tucson,2010,Diésel,5,Manual,2.0,SUV,130000.0
+1167,Peugeot,208,2014,Nafta,5,Manual,1.5,Hatchback,95000.0
+1168,Peugeot,Partner,2015,Diésel,3,Manual,1.6,Furgón,95000.0
+1169,Hyundai,Tucson,2013,Nafta,5,Automática,2.0,SUV,130000.0
+1170,Ford,Ecosport,2017,Nafta,5,Automática,2.0,SUV,18000.0
+1171,Toyota,Etios,2020,Nafta,5,Manual,1.5,Hatchback,33000.0
+1172,Ford,Fiesta Kinetic Design,2012,Nafta,5,Manual,1.6,Hatchback,134000.0
+1173,Volkswagen,Up!,2015,Nafta,3,Manual,1.0,Hatchback,50000.0
+1174,Nissan,March,2019,Nafta,5,Manual,1.6,Hatchback,32000.0
+1175,Volkswagen,Amarok,2022,Diésel,4,Automática,3.0,Pick-Up,8500.0
+1176,Volkswagen,The Beetle,2019,Nafta,3,Automática,2.0,Hatchback,14000.0
+1177,Mercedes-Benz,Clase C,2020,Nafta,4,Automática,2.0,Sedán,12000.0
+1178,Peugeot,308,2019,Diésel,5,Manual,1.6,Hatchback,29000.0
+1179,Volkswagen,Bora,2013,Nafta,4,Manual,2.0,Sedán,135000.0
+1180,Volkswagen,Up!,2015,Nafta,5,Manual,1.0,Hatchback,105000.0
+1181,Volkswagen,Up!,2015,Nafta,3,Manual,1.0,Hatchback,90000.0
+1182,Ford,Transit,2022,Diésel,2,Manual,2.2,Furgón,1000.0
+1183,BMW,Serie M,2016,Nafta,2,Automática,3.0,Coupé,23000.0
+1184,Chevrolet,Camaro,2014,Nafta,2,Manual,6.2,Coupé,22000.0
+1185,Hyundai,Genesis,2012,Nafta,2,Manual,2.0,Coupé,143000.0
+1186,BMW,Serie 3,2013,Nafta,4,Automática,3.0,Sedán,80000.0
+1187,Chevrolet,Onix,2021,Nafta,4,Manual,1.2,Hatchback,28900.0
+1188,Ford,Escort,1999,Nafta,5,Manual,1.8,Hatchback,223000.0
+1189,Toyota,Hilux,2021,Diésel,4,Automática,2.8,Pick-Up,37500.0
+1190,Ford,Kuga,2018,Nafta,5,Automática,2.0,SUV,80000.0
+1191,Peugeot,207,2013,Nafta,3,Manual,1.4,Hatchback,95000.0
+1192,Audi,A3,2007,Nafta,3,Automática,2.0,Hatchback,145000.0
+1193,Jeep,Renegade,2022,Nafta,5,Manual,1.8,SUV,4300.0
+1194,Jeep,Wrangler,2017,Nafta,3,Automática,3.6,Hatchback,110000.0
+1195,Fiat,500,2015,Nafta,2,Automática,1.4,Hatchback,52000.0
+1196,Fiat,Cronos,2022,Nafta,4,Manual,1.3,Sedán,1700.0
+1197,Peugeot,408,2012,Diésel,4,Manual,1.6,Sedán,162000.0
+1198,Chevrolet,Classic,2013,Nafta,4,Manual,1.4,Sedán,149000.0
+1199,Volkswagen,Golf,2018,Nafta,5,Automática,1.4,Hatchback,43800.0
+1200,Jeep,Compass,2012,Nafta,5,Automática,2.4,SUV,140000.0
+1201,Volkswagen,Vento,2017,Nafta,4,Manual,1.4,Sedán,89192.0
+1202,Peugeot,301,2017,Diésel,4,Manual,1.6,Sedán,64000.0
+1203,BMW,X6,2017,Nafta,5,Automática,4.4,SUV,19000.0
+1204,Toyota,Corolla,2017,Nafta,4,Manual,1.8,Sedán,95500.0
+1205,Renault,Clio,2014,Nafta,3,Manual,1.2,Hatchback,133000.0
+1206,Nissan,Kicks,2020,Nafta,5,Automática,1.6,Hatchback,64000.0
+1207,Jeep,Compass,2018,Nafta,5,Automática,2.4,SUV,65000.0
+1208,Renault,Sandero,2014,Nafta,5,Manual,1.6,Hatchback,80000.0
+1209,Volkswagen,Golf,2016,Nafta,5,Automática,2.0,Hatchback,48823.0
+1210,Ford,Ranger,2018,Diésel,4,Manual,3.2,Pick-Up,70000.0
+1211,Audi,Q5,2020,Nafta,5,Automática,2.0,SUV,26000.0
+1212,Citroën,Aircross,2018,Nafta,5,Automática,1.6,Hatchback,160000.0
+1213,Mercedes-Benz,Clase E,2017,Nafta,4,Automática,3.0,Coupé,20000.0
+1214,Peugeot,408,2016,Diésel,4,Manual,1.6,Sedán,93000.0
+1215,Ford,Ranger,2022,Diésel,4,Automática,3.2,Pick-Up,1000.0
+1216,Chevrolet,Prisma,2017,Nafta,4,Manual,1.4,Sedán,155000.0
+1217,Renault,Duster,2014,Nafta,5,Manual,1.6,SUV,77000.0
+1218,Peugeot,2008,2019,Nafta,5,Manual,1.6,SUV,45000.0
+1219,Volkswagen,Voyage,2017,Nafta,4,Manual,1.6,Sedán,87000.0
+1220,Ford,Ecosport,2018,Nafta/GNC,5,Automática,1.5,SUV,87000.0
+1221,Ford,Ecosport,2017,Nafta,5,Manual,1.6,SUV,77200.0
+1222,Honda,CR-V,2014,Nafta,5,Automática,2.4,SUV,122000.0
+1223,Hyundai,H1,2013,Diésel,4,Automática,2.5,Monovolumen,140000.0
+1224,Peugeot,408,2014,Diésel,4,Manual,1.6,Sedán,170000.0
+1225,Peugeot,307,2007,Nafta,4,Manual,2.0,Hatchback,170000.0
+1226,Chevrolet,Onix,2018,Nafta,5,Manual,1.4,Hatchback,50000.0
+1227,Fiat,Punto,2012,Nafta,5,Manual,1.4,Hatchback,98000.0
+1228,Jeep,Renegade,2018,Nafta,5,Automática,1.8,SUV,90000.0
+1229,Toyota,Hiace,2022,Diésel,4,Automática,2.8,Minivan,1500.0
+1230,Jeep,Compass,2022,Nafta,5,Automática,1.3,SUV,1600.0
+1231,Peugeot,208,2022,Nafta,5,Manual,1.6,Hatchback,1000.0
+1232,Jeep,Compass,2019,Nafta,5,Automática,2.4,SUV,45000.0
+1233,Peugeot,208,2020,Nafta,5,Manual,1.6,Hatchback,95000.0
+1234,Jeep,Wrangler,2019,Nafta,3,Automática,3.6,Hatchback,37500.0
+1235,Chevrolet,Onix,2019,Nafta,5,Manual,1.4,Hatchback,39626.0
+1236,Toyota,Hilux,2022,Diésel,4,Automática,2.8,Pick-Up,800.0
+1237,Audi,A3,2016,Nafta,3,Manual,1.4,Hatchback,100000.0
+1238,Volkswagen,Golf,2017,Nafta,5,Automática,1.4,Hatchback,96000.0
+1239,Jeep,Compass,2021,Nafta,5,Manual,2.4,SUV,33000.0
+1240,Mini,Cooper S,2017,Nafta,5,Manual,2.0,Hatchback,43000.0
+1241,Citroën,C4 Lounge,2016,Nafta,4,Manual,1.6,Sedán,119000.0
+1242,Chevrolet,Tracker,2017,Nafta,5,Automática,1.8,SUV,104000.0
+1243,BMW,Serie 5,2013,Nafta,4,Automática,3.0,Sedán,140000.0
+1244,Citroën,C4 Lounge,2018,Nafta,4,Automática,1.6,Sedán,175000.0
+1245,Chevrolet,Onix,2019,Nafta,5,Manual,1.4,Hatchback,37000.0
+1246,Renault,Duster Oroch,2016,Nafta,4,Manual,1.6,SUV,63000.0
+1247,Renault,Logan,2022,Nafta,4,Manual,1.6,Sedán,900.0
+1248,DS,DS3 Crossback,2021,Nafta,5,Automática,1.2,Hatchback,17000.0
+1249,Volkswagen,Amarok,2019,Diésel,4,Automática,2.0,Pick-Up,66500.0
+1250,Renault,Duster,2012,Nafta,5,Manual,2.0,SUV,138000.0
+1251,Ford,Mondeo,2020,Nafta,4,Automática,2.0,Sedán,85000.0
+1252,Volkswagen,Crossfox,2010,Nafta,5,Manual,1.6,Hatchback,168000.0
+1253,Fiat,Cronos,2022,Nafta,4,Manual,1.3,Sedán,5000.0
+1254,Fiat,Cronos,2021,Nafta,4,Manual,1.3,Sedán,1000.0
+1255,Ford,Ecosport,2018,Nafta,5,Manual,1.5,SUV,80000.0
+1256,Toyota,Etios,2016,Nafta,4,Manual,1.5,Sedán,108000.0
+1257,Ford,Fiesta Kinetic Design,2017,Nafta,5,Manual,1.6,Hatchback,120000.0
+1258,Volkswagen,Gol Trend,2017,Nafta,5,Manual,1.6,Hatchback,78000.0
+1259,Chevrolet,Trailblazer,2018,Diésel,5,Automática,2.8,SUV,42000.0
+1260,Jeep,Renegade,2017,Nafta,5,Automática,1.8,SUV,63026.0
+1261,Audi,A1,2018,Nafta,3,Automática,1.4,Hatchback,70000.0
+1262,Chevrolet,Tracker,2015,Nafta,5,Automática,1.8,SUV,151000.0
+1263,Renault,Koleos,2012,Nafta,5,Manual,2.5,SUV,85000.0
+1264,Audi,A4,2012,Nafta,4,Manual,2.0,Sedán,96394.0
+1265,Ford,F-100,1993,Diésel,2,Manual,4.3,Pick-Up,100000.0
+1266,Toyota,86,2013,Nafta,2,Manual,2.0,Coupé,68000.0
+1267,Ford,Ka,2018,Nafta,5,Manual,1.5,Hatchback,30653.0
+1268,Renault,Sandero,2018,Nafta,5,Manual,1.6,Hatchback,122593.0
+1269,Ford,F-150,2021,Nafta,4,Automática,5.0,Pick-Up,55300.0
+1270,Renault,Sandero Stepway,2011,GNC,5,Manual,1.6,Hatchback,112000.0
+1271,Dodge,Journey,2011,Nafta,5,Automática,2.4,SUV,128000.0
+1272,Fiat,500,2016,Nafta,2,Automática,1.4,Hatchback,58000.0
+1273,Chevrolet,Agile,2013,Nafta,5,Manual,1.4,Hatchback,109000.0
+1274,Volkswagen,Voyage,2015,Nafta,4,Manual,1.6,Sedán,160000.0
+1275,Ford,Ecosport,2020,Nafta,5,Manual,1.5,SUV,26300.0
+1276,Fiat,Cronos,2023,Nafta,4,Manual,1.3,Sedán,1000.0
+1277,Toyota,RAV4,2017,Nafta,5,Automática,2.5,SUV,103000.0
+1278,Citroën,DS4,2013,Nafta,5,Automática,1.6,Hatchback,85100.0
+1279,Ford,Ka,2018,Nafta,5,Manual,1.5,Hatchback,59000.0
+1280,Ford,Fiesta Kinetic Design,2016,Nafta,5,Automática,1.6,Hatchback,85000.0
+1281,Mercedes-Benz,Clase C,2001,Nafta,4,Automática,3.2,Sedán,80000.0
+1282,Peugeot,207,2012,Nafta,2,Manual,1.6,Hatchback,102000.0
+1283,Fiat,Cronos,2022,Nafta,4,Manual,1.3,Sedán,1000.0
+1284,Volkswagen,Scirocco,2013,Nafta,2,Manual,2.0,Coupé,50000.0
+1285,Ford,Fiesta,2010,Nafta,5,Manual,1.6,Hatchback,208300.0
+1286,Ford,Territory,2023,Nafta,5,Automática,1.5,SUV,1000.0
+1287,Volkswagen,Fox,2012,Nafta,5,Manual,1.6,Hatchback,136190.0
+1288,Peugeot,308,2013,Diésel,5,Manual,1.6,Hatchback,152200.0
+1289,Nissan,Kicks,2019,Nafta,5,Manual,1.6,Hatchback,27000.0
+1290,Volkswagen,Crossfox,2010,Nafta,5,Manual,1.6,Hatchback,123200.0
+1291,Renault,Captur,2019,Nafta,5,Manual,2.0,SUV,30000.0
+1292,Citroën,C4,2013,Nafta,5,Manual,1.6,Hatchback,159000.0
+1293,Ford,Ecosport,2017,Nafta,5,Manual,1.6,SUV,74000.0
+1294,Mercedes-Benz,Clase C,2010,Nafta,4,Manual,1.8,Sedán,100000.0
+1295,BMW,X1,2017,Nafta,5,Manual,2.0,SUV,85000.0
+1296,Toyota,SW4,2021,Diésel,5,Automática,2.8,SUV,22487.0
+1297,Ford,Fiesta Kinetic Design,2014,Nafta,5,Manual,1.6,Hatchback,88000.0
+1298,Volkswagen,Suran,2011,Nafta,5,Automática,1.6,Monovolumen,153000.0
+1299,Citroën,C3 Picasso,2012,Nafta,5,Manual,1.6,Hatchback,113000.0
+1300,Chevrolet,Prisma,2016,Nafta,4,Automática,1.4,Sedán,82000.0
+1301,Peugeot,207,2011,Nafta,5,Manual,1.6,Hatchback,107108.0
+1302,Audi,Q3,2018,Nafta,5,Automática,1.4,SUV,41500.0
+1303,Audi,A3 Sportback,2011,Nafta,5,Manual,1.4,Hatchback,156000.0
+1304,Honda,Fit,2010,Nafta,5,Manual,1.4,Hatchback,112000.0
+1305,Honda,CR-V,2013,Nafta,5,Automática,2.4,SUV,182000.0
+1306,Volkswagen,Vento,2008,Nafta,4,Manual,2.5,Sedán,142000.0
+1307,Audi,A4,2005,Diésel,4,Manual,1.9,Sedán,100000.0
+1308,Peugeot,206,2008,Nafta,2,Manual,1.6,Coupé,124000.0
+1309,Ford,Ranger,2019,Diésel,4,Automática,3.2,Pick-Up,117000.0
+1310,Audi,A3 Sportback,2011,Nafta,5,Automática,2.0,Hatchback,105000.0
+1311,Ford,Fiesta Kinetic Design,2015,Nafta,5,Automática,1.6,Hatchback,86236.0
+1312,Ford,Ka,2019,Nafta,5,Manual,1.5,Hatchback,73600.0
+1313,Ford,Fiesta Kinetic Design,2018,Nafta,5,Manual,1.6,Hatchback,54000.0
+1314,Dodge,Journey,2017,Nafta,5,Automática,2.4,SUV,76800.0
+1315,BMW,Serie 1,2016,Nafta,5,Automática,1.6,Hatchback,90000.0
+1316,Chevrolet,Onix,2015,Nafta/GNC,5,Manual,1.4,Hatchback,7448.0
+1317,BMW,Serie 3,2014,Nafta,4,Automática,2.0,Sedán,53700.0
+1318,Chevrolet,Captiva,2011,Diésel,5,Automática,2.0,SUV,140000.0
+1319,Toyota,Corolla,2014,Nafta,4,Manual,1.8,Sedán,108000.0
+1320,Jeep,Compass,2017,Nafta,5,Automática,2.4,SUV,50000.0
+1321,Renault,Sandero,2016,Nafta,5,Manual,1.6,Hatchback,185000.0
+1322,Citroën,C3,2017,Nafta,5,Manual,1.6,Hatchback,130000.0
+1323,Toyota,Corolla,2012,Nafta,4,Manual,1.8,Sedán,128500.0
+1324,Renault,Mégane III,2015,Nafta,4,Manual,1.6,Hatchback,122000.0
+1325,Ford,Ranger,2019,Nafta,4,Manual,2.5,Pick-Up,70100.0
+1326,Volkswagen,Up!,2015,Nafta,3,Manual,1.0,Hatchback,77000.0
+1327,Audi,A3,2007,Nafta,3,Automática,2.0,Hatchback,145000.0
+1328,Mercedes-Benz,Clase C,2010,Nafta,4,Automática,1.8,Sedán,133000.0
+1329,Chevrolet,Onix,2018,Nafta,5,Manual,1.4,Hatchback,36800.0
+1330,Volkswagen,Gol Trend,2018,Nafta/GNC,5,Manual,1.6,Hatchback,79000.0
+1331,Ford,Ecosport,2014,Nafta,5,Manual,1.6,SUV,79000.0
+1332,Peugeot,308,2012,Nafta,5,Manual,2.0,Hatchback,93000.0
+1333,BMW,Serie 3,1999,Nafta,4,Automática,2.0,Sedán,149000.0
+1334,Chevrolet,Onix,2018,Nafta,5,Manual,1.4,Hatchback,95000.0
+1335,Citroën,C5 Aircross,2022,Nafta,5,Automática,1.6,SUV,1212.0
+1336,Volkswagen,Tiguan Allspace,2020,Nafta,5,Automática,1.4,SUV,12000.0
+1337,Mazda,MX6,1995,Nafta,2,Manual,2.0,Coupé,89000.0
+1338,Hyundai,Genesis,2017,Nafta,2,Manual,2.0,Coupé,4600.0
+1339,Volkswagen,Fox,2013,Nafta,5,Manual,1.6,Hatchback,95000.0
+1340,Kia,Rio,2022,Nafta,5,Automática,1.6,Hatchback,6000.0
+1341,Volkswagen,Polo,2018,Nafta,4,Manual,1.6,Sedán,48823.0
+1342,Chevrolet,Cruze,2014,Nafta,4,Manual,1.8,Sedán,127000.0
+1343,Volkswagen,Golf,2018,Nafta,5,Automática,1.4,Hatchback,69000.0
+1344,Renault,Logan,2016,Nafta,4,Manual,1.6,Sedán,112000.0
+1345,Toyota,SW4,2022,Diésel,5,Automática,2.8,SUV,111111.0
+1346,Ford,Ka,2017,Nafta,5,Manual,1.5,Hatchback,71000.0
+1347,Ford,Ecosport,2013,Diésel,5,Manual,1.5,SUV,120000.0
+1348,Toyota,Corolla,2017,Nafta,4,Manual,1.8,Sedán,114000.0
+1349,Fiat,Bravo,2013,Nafta,5,Manual,1.4,Hatchback,108000.0
+1350,Volkswagen,Up!,2014,Nafta,3,Manual,1.0,Hatchback,108000.0
+1351,Toyota,SW4,2022,Diésel,5,Automática,2.8,SUV,3400.0
+1352,Peugeot,408,2014,Diésel,4,Manual,1.6,Sedán,170000.0
+1353,Renault,Sandero,2019,Nafta,5,Manual,2.0,Hatchback,42043.0
+1354,Chevrolet,Prisma,2014,Nafta,4,Manual,1.4,Sedán,101000.0
+1355,Volkswagen,Golf,2020,Nafta,5,Automática,1.4,Hatchback,30000.0
+1356,Chevrolet,Equinox,2020,Nafta,5,Automática,1.5,SUV,44000.0
+1357,Renault,Clio,2016,Nafta,5,Manual,1.2,Hatchback,75000.0
+1358,Jeep,Grand Cherokee,2019,Nafta,5,Automática,6.4,SUV,11096.0
+1359,Volkswagen,Suran,2016,Nafta,5,Manual,1.6,Monovolumen,58000.0
+1360,Honda,CR-V,2001,Nafta,5,Manual,2.0,SUV,200000.0
+1361,Mercedes-Benz,Clase C,2013,Nafta,4,Automática,1.8,Sedán,120000.0
+1362,Ford,Focus III,2018,Nafta,4,Manual,1.6,Sedán,58995.0
+1363,Ford,Focus III,2019,Nafta,5,Manual,2.0,Hatchback,51335.0
+1364,Ford,Focus III,2017,Nafta,4,Manual,1.6,Sedán,57125.0
+1365,Ford,Ranger,2022,Diésel,4,Manual,3.2,Pick-Up,15813.0
+1366,Peugeot,208,2021,Nafta,5,Automática,1.6,Hatchback,1000.0
+1367,Nissan,Frontier,2006,Diésel,4,Manual,2.8,Pick-Up,260000.0
+1368,Renault,Sandero Stepway,2021,Nafta,5,Automática,1.6,Hatchback,8000.0
+1369,Volkswagen,Suran,2016,Nafta,5,Manual,1.6,Monovolumen,85000.0
+1370,Audi,A5,2012,Nafta,2,Automática,2.0,Coupé,97000.0
+1371,Ford,Ecosport,2015,Nafta,5,Manual,1.6,SUV,49200.0
+1372,Toyota,SW4,2021,Diésel,5,Automática,2.8,SUV,18000.0
+1373,Peugeot,307,2012,Nafta,5,Manual,1.6,Hatchback,89000.0
+1374,Toyota,Hilux,2022,Diésel,4,Automática,2.8,Pick-Up,36000.0
+1375,Volkswagen,Gol Trend,2014,Nafta,3,Manual,1.6,Hatchback,80000.0
+1376,Renault,Mégane II,2006,Nafta,4,Manual,1.6,Sedán,72000.0
+1377,Toyota,Hilux,2013,Diésel,4,Manual,2.5,Pick-Up,141000.0
+1378,Audi,A1,2018,Nafta,3,Manual,1.4,Hatchback,31000.0
+1379,Peugeot,208,2023,Nafta,5,Automática,1.6,Hatchback,500.0
+1380,Peugeot,208,2022,Nafta,5,Automática,1.6,Hatchback,1000.0
+1381,Renault,Kangoo,2017,Nafta,3,Manual,1.6,Furgón,170000.0
+1382,Chevrolet,Cruze,2011,Diésel,4,Manual,2.0,Sedán,120000.0
+1383,Jeep,Compass,2022,Nafta,5,Automática,1.3,SUV,333.0
+1384,Toyota,Corolla,2020,Nafta,4,Automática,1.8,Sedán,29000.0
+1385,Volkswagen,Polo,2018,Nafta,5,Automática,1.6,Hatchback,60000.0
+1386,Chevrolet,Cruze II,2018,Nafta,5,Manual,1.4,Hatchback,189737.0
+1387,Chevrolet,Prisma,2017,Nafta/GNC,4,Manual,1.4,Sedán,93000.0
+1388,Chevrolet,Cruze,2013,Nafta,4,Manual,1.8,Sedán,111795.0
+1389,Ford,Mondeo,2019,Nafta,4,Automática,2.0,Sedán,32200.0
+1390,Audi,A3,2010,Nafta,3,Manual,1.6,Hatchback,114000.0
+1391,Volkswagen,Vento,2010,Diésel,4,Manual,1.9,Sedán,180000.0
+1392,Peugeot,301,2017,Nafta,4,Manual,1.6,Sedán,93000.0
+1393,Jeep,Compass,2018,Nafta,5,Manual,2.4,SUV,72000.0
+1394,Ford,Ecosport,2020,Nafta,5,Automática,1.5,SUV,23800.0
+1395,Mercedes-Benz,Clase C,2018,Nafta,4,Automática,3.0,Sedán,70000.0
+1396,Volkswagen,Vento,2017,Nafta,4,Manual,1.4,Sedán,87000.0
+1397,Toyota,Corolla,2021,Nafta,4,Automática,2.0,Sedán,21000.0
+1398,Peugeot,2008,2019,Nafta,5,Manual,1.6,SUV,49000.0
+1399,Mercedes-Benz,Clase GLC,2018,Nafta,5,Automática,2.0,SUV,59000.0
+1400,Citroën,C5,2004,Diésel,4,Manual,2.0,Sedán,279000.0
+1401,Jeep,Compass,2020,Nafta,5,Automática,2.4,SUV,39000.0
+1402,Peugeot,208,2013,Nafta,5,Manual,1.6,Hatchback,89000.0
+1403,Volkswagen,Amarok,2022,Diésel,4,Automática,2.0,Pick-Up,1111.0
+1404,Jeep,Wrangler,2015,Nafta,3,Automática,3.6,SUV,85000.0
+1405,Citroën,C3,2017,Nafta,5,Manual,1.6,Hatchback,53000.0
+1406,Peugeot,408,2014,Diésel,4,Manual,1.6,Sedán,170000.0
+1407,Audi,A5,2012,Nafta,2,Automática,2.0,Coupé,95000.0
+1408,Toyota,SW4,2020,Diésel,5,Automática,2.8,SUV,34000.0
+1409,Citroën,C4 Lounge,2017,Nafta,4,Automática,1.6,Sedán,100000.0
+1410,Ford,Ecosport,2022,Nafta,5,Manual,1.5,SUV,500.0
+1411,Honda,Civic,2017,Nafta,3,Manual,2.0,Hatchback,64000.0
+1412,Alfa Romeo,Giulia,2019,Nafta,5,Automática,2.0,Sedán,11700.0
+1413,Citroën,C3,2022,Nafta,5,Manual,1.2,Hatchback,1000.0
+1414,Kia,Carnival,2018,Nafta,5,Automática,2.2,Monovolumen,99000.0
+1415,Toyota,CH-R,2020,Híbrido/Nafta,4,Automática,1.8,Hatchback,14794.0
+1416,Toyota,CH-R,2020,Híbrido/Nafta,4,Automática,1.8,Hatchback,38909.0
+1417,BMW,Serie 3,2014,Nafta,4,Manual,2.0,Sedán,100700.0
+1418,Chevrolet,Onix,2017,Nafta,5,Manual,1.4,Hatchback,66700.0
+1419,Chevrolet,Cruze II,2018,Nafta,4,Automática,1.4,Sedán,71000.0
+1420,Ford,Fiesta Kinetic Design,2016,Nafta,4,Manual,1.6,Sedán,64000.0
+1421,Volkswagen,The Beetle,2019,Nafta,3,Manual,1.4,Hatchback,23000.0
+1422,Volkswagen,Golf,2015,Nafta,5,Manual,1.4,Hatchback,95000.0
+1423,Honda,CR-V,1999,Nafta,5,Automática,2.0,SUV,270000.0
+1424,DS,DS7 Crossback,2019,Diésel,5,Automática,2.0,Monovolumen,42500.0
+1425,Renault,Duster Oroch,2022,Nafta,4,Manual,1.6,SUV,19000.0
+1426,Ford,Ecosport,2014,Nafta/GNC,5,Manual,1.6,SUV,140000.0
+1427,Chevrolet,Cruze,2011,Nafta,4,Manual,1.8,Sedán,70000.0
+1428,Jeep,Grand Cherokee,2014,Nafta,5,Automática,6.4,SUV,70000.0
+1429,Renault,Kwid,2018,Nafta,5,Manual,1.0,Hatchback,66263.0
+1430,Toyota,Hilux,2022,Diésel,4,Automática,2.8,Pick-Up,3500.0
+1431,Honda,Accord,2008,Nafta,4,Automática,3.5,Sedán,199000.0
+1432,Chevrolet,Tracker,2017,Nafta,5,Automática,1.8,SUV,50900.0
+1433,Chevrolet,Onix,2018,Nafta,5,Manual,1.4,Hatchback,66000.0
+1434,Toyota,Hilux,2022,Diésel,4,Automática,2.8,Pick-Up,2400.0
+1435,Chevrolet,Onix,2020,Nafta,5,Manual,1.2,Hatchback,38700.0
+1436,Jeep,Compass,2022,Nafta,5,Automática,1.3,SUV,600.0
+1437,Toyota,SW4,2022,Diésel,5,Automática,2.8,SUV,500.0
+1438,Volkswagen,Polo,2018,Nafta,5,Automática,1.6,Hatchback,52000.0
+1439,Peugeot,208,2014,Nafta,5,Manual,1.5,Hatchback,108000.0
+1440,Volkswagen,Taos,2023,Nafta,5,Automática,1.4,SUV,1111.0
+1441,Honda,HR-V,2020,Nafta,5,Automática,1.8,SUV,12000.0
+1442,Ford,Focus III,2015,Nafta,4,Manual,1.6,Sedán,165000.0
+1443,Chevrolet,Onix,2018,Nafta,5,Manual,1.4,Hatchback,116289.0
+1444,Chevrolet,Cruze,2018,Nafta,4,Manual,1.8,Sedán,73000.0
+1445,Nissan,Note,2019,Nafta,5,Automática,1.6,Hatchback,53000.0
+1446,Peugeot,208,2022,Nafta,5,Automática,1.6,Hatchback,1001.0
+1447,Peugeot,208,2020,Nafta,5,Manual,1.6,Hatchback,26200.0
+1448,Volkswagen,Amarok,2018,Diésel,2,Manual,2.0,Pick-Up,84000.0
+1449,Fiat,Pulse,2022,Nafta,5,Manual,1.3,SUV,1000.0
+1450,BMW,Serie 3,2019,Nafta,4,Manual,3.0,Sedán,60000.0
+1451,Fiat,Toro,2022,Diésel,4,Automática,1.8,Pick-Up,1000.0
+1452,Chevrolet,Equinox,2020,Nafta,5,Automática,1.5,SUV,36000.0
+1453,Fiat,Cronos,2022,Nafta,4,Automática,1.8,Sedán,10000.0
+1454,Mercedes-Benz,Clase GLC,2018,Nafta,5,Automática,2.0,SUV,80000.0
+1455,Jeep,Grand Cherokee,2014,Nafta,5,Automática,3.6,SUV,75000.0
+1456,Volkswagen,Amarok,2012,Diésel,4,Manual,2.0,Pick-Up,145000.0
+1457,Volkswagen,Golf,2016,Nafta,5,Manual,1.6,Hatchback,95000.0
+1458,Citroën,Berlingo,2018,Diésel,3,Manual,1.6,Furgón,83500.0
+1459,Renault,Duster,2018,Nafta,5,Manual,2.0,SUV,83000.0
+1460,Toyota,Corolla,2015,Nafta,4,Manual,1.8,Sedán,93000.0
+1461,Peugeot,RCZ,2012,Nafta,2,Manual,1.6,Coupé,41000.0
+1462,Renault,Kwid,2018,Nafta,5,Manual,1.0,Hatchback,35500.0
+1463,Nissan,Kicks,2018,Nafta,5,Manual,1.6,Hatchback,77000.0
+1464,Ford,Focus,2017,Nafta,5,Manual,2.0,Hatchback,10300.0
+1465,Ford,Ka,2017,Nafta,4,Manual,1.5,Sedán,90000.0
+1466,Volkswagen,Gol Trend,2009,Nafta,5,Manual,1.6,Hatchback,162000.0
+1467,Ford,Ecosport,2015,Nafta,5,Manual,1.6,SUV,109300.0
+1468,Volkswagen,Amarok,2013,Diésel,4,Manual,2.0,Pick-Up,83000.0
+1469,Volkswagen,Golf,2017,Nafta,5,Automática,2.0,Hatchback,50000.0
+1470,Dodge,Journey,2010,Nafta,5,Automática,2.7,SUV,150000.0
+1471,Peugeot,307,2010,Diésel,5,Manual,2.0,Hatchback,152834.0
+1472,Peugeot,5008,2018,Nafta,5,Manual,1.6,Monovolumen,27000.0
+1473,Renault,ALASKAN,2022,Diésel,4,Manual,2.3,Pick-Up,1000.0
+1474,Chevrolet,Equinox,2021,Nafta,5,Automática,1.5,SUV,12838.0
+1475,Ford,Ecosport,2015,Nafta,5,Manual,1.6,SUV,98500.0
+1476,Nissan,Versa,2016,Nafta,4,Manual,1.6,Sedán,95050.0
+1477,RAM,1500,2017,Nafta,4,Automática,5.7,Pick-Up,88000.0
+1478,Renault,Duster,2017,Nafta,5,Manual,2.0,SUV,34500.0
+1479,Peugeot,207,2012,Nafta,2,Manual,1.6,Hatchback,100000.0
+1480,Peugeot,207,2011,Nafta,5,Manual,1.6,Hatchback,123000.0
+1481,Peugeot,308,2013,Nafta,5,Manual,1.6,Hatchback,102000.0
+1482,Volkswagen,Gol Trend,2015,Nafta,3,Manual,1.6,Hatchback,135000.0
+1483,Fiat,Toro,2020,Diésel,4,Automática,2.0,Pick-Up,65000.0
+1484,Ford,Ka,2018,Nafta,5,Manual,1.5,Hatchback,59000.0
+1485,Ford,Ranger,2021,Diésel,4,Manual,3.2,Pick-Up,23000.0
+1486,Audi,Q3 Sportback,2020,Nafta,5,Automática,1.4,SUV,35000.0
+1487,Fiat,Cronos,2023,Nafta,4,Manual,1.3,Sedán,5000.0
+1488,Ford,Mustang,2016,Nafta,2,Manual,5.0,Coupé,25900.0
+1489,Peugeot,208,2022,Nafta,5,Manual,1.6,Hatchback,1500.0
+1490,Ford,Ecosport,2013,Nafta,5,Manual,1.6,SUV,86000.0
+1491,Volkswagen,Up!,2014,Nafta,3,Manual,1.0,Hatchback,110000.0
+1492,Renault,Duster,2016,Nafta/GNC,5,Manual,1.6,SUV,105000.0
+1493,Fiat,Cronos,2022,Nafta,4,Manual,1.3,Sedán,1000.0
+1494,Jeep,Compass,2021,Diésel,5,Automática,2.4,SUV,20000.0
+1495,Volkswagen,Amarok,2019,Diésel,4,Automática,3.0,Pick-Up,146000.0
+1496,Ford,Focus III,2017,Nafta,5,Manual,1.6,Hatchback,72000.0
+1497,Fiat,Palio,2011,Nafta,5,Manual,1.4,Hatchback,125000.0
+1498,Audi,A3,2013,Nafta,5,Manual,1.4,Hatchback,113200.0
+1499,Honda,HR-V,2018,Nafta,5,Automática,1.8,SUV,70000.0
+1500,Volkswagen,Amarok,2019,Diésel,4,Automática,3.0,Pick-Up,145000.0
+1501,Nissan,Kicks,2018,Nafta,5,Manual,1.6,Hatchback,71500.0
+1502,Citroën,DS3,2012,Nafta,3,Manual,1.6,Hatchback,85000.0
+1503,Nissan,Kicks,2020,Nafta,5,Automática,1.6,Hatchback,34000.0
+1504,Renault,Sandero,2018,Nafta,5,Manual,1.6,Hatchback,89900.0
+1505,Volkswagen,Golf,2013,Nafta,5,Manual,2.0,Hatchback,61000.0
+1506,Renault,Sandero Stepway,2013,Nafta,5,Manual,1.6,Hatchback,83000.0
+1507,Renault,Kangoo,2022,Nafta,3,Manual,1.6,Furgón,500.0
+1508,Fiat,Palio,2011,Nafta,5,Manual,1.6,Rural,148500.0
+1509,Ford,Ecosport,2018,Nafta,5,Manual,1.5,SUV,39400.0
+1510,Ford,Focus,2018,Nafta,5,Manual,2.0,Hatchback,96000.0
+1511,Chevrolet,Onix,2020,Nafta,5,Manual,1.4,Hatchback,54500.0
+1512,Renault,Sandero,2017,Nafta,5,Manual,2.0,Hatchback,50000.0
+1513,Renault,Logan,2008,Nafta,4,Manual,1.6,Sedán,100000.0
+1514,Land Rover,Discovery,2009,Diésel,5,Automática,4.4,SUV,95000.0
+1515,Volkswagen,Fox,2016,Nafta,5,Manual,1.6,Hatchback,93000.0
+1516,RAM,1500,2019,Nafta,4,Automática,5.7,Pick-Up,55000.0
+1517,Peugeot,208,2022,Nafta,5,Manual,1.2,Hatchback,1111.0
+1518,Volkswagen,Suran,2016,Nafta,5,Manual,1.6,Monovolumen,123281.0
+1519,Chevrolet,Cruze,2017,Nafta,4,Manual,1.8,Sedán,44000.0
+1520,Volkswagen,Nivus,2021,Nafta,5,Automática,1.0,SUV,50000.0
+1521,Peugeot,408,2012,Diésel,4,Manual,1.6,Sedán,165000.0
+1522,Chery,Tiggo,2016,Nafta,5,Manual,1.6,SUV,127000.0
+1523,Ford,Ranger,2022,Diésel,4,Automática,3.2,Pick-Up,12000.0
+1524,Volkswagen,Golf,2016,Nafta,5,Manual,1.6,Hatchback,94000.0
+1525,Chevrolet,Tracker,2016,Nafta,5,Automática,1.8,SUV,68000.0
+1526,Ford,Ranger,2014,Diésel,4,Manual,2.2,Pick-Up,149000.0
+1527,Nissan,X-Trail,2013,Nafta,5,Automática,2.5,SUV,140000.0
+1528,Audi,A1 Sportback,2021,Nafta,5,Automática,1.5,Hatchback,41300.0
+1529,Volkswagen,Up!,2016,Nafta,3,Manual,1.0,Hatchback,127000.0
+1530,Audi,A3,2016,Nafta,3,Automática,1.8,Hatchback,110000.0
+1531,BMW,X1,2012,Nafta,5,Manual,2.0,SUV,146000.0
+1532,Renault,Duster Oroch,2017,Nafta,4,Manual,1.6,SUV,147000.0
+1533,Volkswagen,Golf,2015,Nafta,5,Automática,1.4,Hatchback,84000.0
+1534,BMW,Serie 4,2017,Nafta,2,Automática,2.0,Coupé,112000.0
+1535,Peugeot,308,2017,Nafta,5,Manual,1.6,Hatchback,131500.0
+1536,Mercedes-Benz,Vito,2019,Diésel,2,Manual,1.6,Furgón,78000.0
+1537,Nissan,Murano,2018,Nafta,5,Automática,3.5,SUV,69000.0
+1538,Toyota,Hilux,2022,Diésel,4,Manual,2.4,Pick-Up,1000.0
+1539,Fiat,Toro,2020,Diésel,4,Automática,2.0,Pick-Up,54000.0
+1540,Fiat,Toro,2020,Diésel,4,Automática,2.0,Pick-Up,83000.0
+1541,Volkswagen,CC,2012,Nafta,4,Automática,3.6,Sedán,100000.0
+1542,Chevrolet,Tracker,2017,Nafta,5,Automática,1.8,SUV,61900.0
+1543,Mercedes-Benz,Clase GLK,2010,Nafta,5,Automática,2.5,SUV,160000.0
+1544,Jeep,Compass,2019,Nafta,5,Automática,2.4,SUV,95000.0
+1545,Nissan,Pathfinder,1999,Nafta/GNC,5,Manual,3.3,SUV,230000.0
+1546,Renault,Clio,2014,Nafta,5,Manual,1.2,Hatchback,80000.0
+1547,Toyota,Etios,2020,Nafta,5,Manual,1.5,Hatchback,33000.0
+1548,Toyota,Hilux,2020,Diésel,4,Automática,2.8,Pick-Up,79000.0
+1549,Toyota,Hilux,2022,Diésel,4,Automática,2.8,Pick-Up,1999.0
+1550,Ford,Fiesta Kinetic Design,2014,Nafta,5,Manual,1.6,Hatchback,116000.0
+1551,Peugeot,2008,2017,Nafta,5,Manual,1.6,SUV,42000.0
+1552,Volkswagen,Up!,2017,Nafta,3,Manual,1.0,Hatchback,75000.0
+1553,Honda,Civic,2013,Nafta,4,Automática,1.8,Sedán,160000.0
+1554,BMW,Serie 1,2009,Nafta,2,Manual,2.5,Coupé,70000.0
+1555,BMW,Serie 3,2010,Nafta,4,Automática,2.5,Sedán,100000.0
+1556,Fiat,Grand Siena,2013,Nafta,4,Manual,1.4,Sedán,126000.0
+1557,Toyota,Hilux,2019,Diésel,4,Manual,2.4,Pick-Up,124000.0
+1558,Audi,TT,2011,Nafta,2,Manual,1.8,Coupé,85000.0
+1559,Fiat,Palio,2015,Nafta,5,Manual,1.4,Hatchback,139039.0
+1560,Volkswagen,Vento,2013,Nafta,4,Automática,2.0,Sedán,100000.0
+1561,BMW,X3,2019,Nafta,5,Automática,2.0,SUV,85000.0
+1562,Toyota,SW4,2010,Diésel,5,Manual,3.0,SUV,228000.0
+1563,Mini,Cooper S,2015,Nafta,5,Manual,2.0,Hatchback,50000.0
+1564,Toyota,SW4,2019,Diésel,5,Automática,2.8,SUV,22000.0
+1565,Toyota,SW4,2022,Diésel,5,Automática,2.8,SUV,1200.0
+1566,Toyota,SW4,2018,Diésel,5,Automática,2.8,SUV,61747.0
+1567,Citroën,C3,2008,Nafta,5,Manual,1.4,Hatchback,80000.0
+1568,Chevrolet,Trailblazer,2017,Diésel,5,Automática,2.8,SUV,160000.0
+1569,Volkswagen,Amarok,2018,Diésel,4,Manual,2.0,Pick-Up,54000.0
+1570,Peugeot,308,2017,Nafta,5,Automática,1.6,Hatchback,75000.0
+1571,Ford,Fiesta Kinetic Design,2014,Nafta,4,Automática,1.6,Sedán,110000.0
+1572,Peugeot,208,2022,Nafta,5,Automática,1.6,Hatchback,5100.0
+1573,Chevrolet,Agile,2011,Nafta,5,Manual,1.4,Hatchback,145000.0
+1574,BMW,X5,2007,Nafta,5,Automática,4.8,SUV,150016.0
+1575,Fiat,Toro,2020,Diésel,4,Automática,2.0,Pick-Up,54000.0
+1576,Peugeot,308,2012,Nafta,5,Automática,2.0,Hatchback,90000.0
+1577,Audi,Q5,2017,Nafta,5,Automática,2.0,SUV,125000.0
+1578,Peugeot,Partner Patagónica,2016,Diésel,4,Manual,1.6,Monovolumen,58000.0
+1579,Volkswagen,Amarok,2018,Diésel,4,Automática,3.0,Pick-Up,67000.0
+1580,Fiat,Cronos,2022,Nafta,4,Manual,1.3,Sedán,1000.0
+1581,Volkswagen,Amarok,2015,Diésel,4,Automática,2.0,Pick-Up,114000.0
+1582,Jeep,Cherokee,2012,Nafta,5,Automática,3.7,SUV,160000.0
+1583,Renault,Sandero,2022,Nafta,5,Manual,1.6,Hatchback,1002.0
+1584,Nissan,Kicks,2019,Nafta,5,Manual,1.6,Hatchback,79881.0
+1585,Volkswagen,Suran,2017,Nafta,5,Manual,1.6,Hatchback,129300.0
+1586,Chevrolet,Tracker,2017,Nafta,5,Manual,1.8,SUV,84286.0
+1587,Ford,Focus III,2019,Nafta,5,Manual,2.0,Hatchback,30000.0
+1588,Ford,Ecosport,2016,Nafta,5,Manual,1.6,SUV,121000.0
+1589,Volkswagen,Vento,2015,Nafta,4,Automática,2.5,Sedán,130000.0
+1590,Mercedes-Benz,Clase A,2019,Nafta,5,Automática,2.0,Hatchback,37000.0
+1591,Peugeot,207,2011,Nafta,5,Manual,1.6,Hatchback,37000.0
+1592,Mercedes-Benz,CLK,2009,Nafta,2,Automática,3.5,Coupé,69225.0
+1593,Toyota,Hilux,2022,Diésel,4,Automática,2.8,Pick-Up,1500.0
+1594,Ford,Fiesta Kinetic Design,2019,Nafta,5,Manual,1.6,Hatchback,39000.0
+1595,Toyota,RAV4,2018,Nafta,5,Automática,2.0,SUV,106000.0
+1596,Audi,S3,2017,Nafta,3,Automática,2.0,Hatchback,14200.0
+1597,Toyota,Etios,2022,Nafta,5,Automática,1.5,Hatchback,111111.0
+1598,Audi,A4,2018,Nafta,4,Automática,2.0,Sedán,75000.0
+1599,Volkswagen,Passat,2017,Nafta,4,Automática,2.0,Sedán,168000.0
+1600,Ford,Ranger,2019,Diésel,4,Manual,3.2,Pick-Up,113000.0
+1601,Volkswagen,Golf,2018,Nafta,5,Automática,1.4,Hatchback,72000.0
+1602,Toyota,Hilux,2020,Diésel,4,Manual,2.4,Pick-Up,50000.0
+1603,Volkswagen,Suran,2017,Nafta/GNC,5,Automática,1.6,Monovolumen,77000.0
+1604,Ford,Kuga,2017,Nafta,5,Automática,2.0,SUV,98824.0
+1605,Peugeot,RCZ,2013,Nafta,2,Manual,1.6,Coupé,3500.0
+1606,Alfa Romeo,Giulia,2019,Nafta,5,Automática,2.0,Sedán,11700.0
+1607,Chevrolet,Spin,2016,Nafta,5,Automática,1.8,Monovolumen,86457.0
+1608,BMW,Serie 1,2021,Nafta,5,Automática,1.5,Hatchback,21000.0
+1609,Peugeot,504,1996,Diésel,4,Manual,2.3,Sedán,295000.0
+1610,BMW,Serie 2,2016,Nafta,2,Automática,3.0,Coupé,85000.0
+1611,DS,DS7 Crossback,2021,Diésel,5,Automática,2.0,Monovolumen,69000.0
+1612,Fiat,Fiorino,2016,Nafta,3,Manual,1.4,Furgón,118190.0
+1613,Honda,CR-V,2008,Nafta,5,Automática,2.4,SUV,200000.0
+1614,Ford,Fiesta Kinetic Design,2016,Nafta,5,Manual,1.6,Hatchback,50000.0
+1615,Chevrolet,Tracker,2015,Nafta,5,Automática,1.8,SUV,80000.0
+1616,Nissan,Note,2016,Nafta,5,Manual,1.6,Hatchback,72100.0
+1617,Jeep,Compass,2018,Nafta,5,Manual,2.4,SUV,45000.0
+1618,Toyota,Hilux,2022,Diésel,4,Automática,2.8,Pick-Up,7400.0
+1619,Ford,Ranger,2016,Diésel,4,Manual,3.2,Pick-Up,86100.0
+1620,Ford,Focus III,2018,Nafta,5,Manual,2.0,Hatchback,67000.0
+1621,Volkswagen,Amarok,2018,Diésel,4,Automática,3.0,Pick-Up,67400.0
+1622,Ford,Ranger,2017,Diésel,4,Automática,3.2,Pick-Up,141000.0
+1623,Toyota,SW4,2006,Diésel,5,Automática,3.0,SUV,320000.0
+1624,Toyota,Etios,2016,Nafta,5,Manual,1.5,Hatchback,108445.0
+1625,Chevrolet,Onix,2018,Nafta,5,Automática,1.4,Hatchback,60000.0
+1626,Toyota,Hiace,2022,Diésel,4,Automática,2.8,Minivan,1500.0
+1627,Chevrolet,Spin,2017,GNC,5,Manual,1.8,Monovolumen,144732.0
+1628,Citroën,Aircross,2013,Nafta,5,Manual,1.6,Hatchback,120000.0
+1629,Toyota,Corolla,2018,Nafta,4,Automática,1.8,Sedán,40300.0
+1630,Nissan,X-Trail,2022,Nafta,5,Automática,2.5,SUV,6700.0
+1631,Toyota,Hilux,2012,Diésel,4,Automática,3.0,Pick-Up,190000.0
+1632,Chevrolet,Tracker,2019,Nafta,5,Manual,1.8,SUV,113759.0
+1633,Audi,Q5,2011,Nafta,5,Automática,2.0,SUV,125000.0
+1634,Renault,Duster,2013,Nafta,5,Manual,2.0,SUV,169497.0
+1635,Mercedes-Benz,Clase GLA,2017,Nafta,5,Automática,1.6,SUV,60000.0
+1636,Volkswagen,Vento,2015,Nafta,4,Automática,2.5,Sedán,113000.0
+1637,Haval,H6,2021,Nafta,5,Automática,2.0,SUV,27000.0
+1638,Audi,Q2,2019,Nafta,5,Automática,2.0,SUV,80000.0
+1639,Ford,Ranger,2006,Diésel,2,Manual,3.0,Pick-Up,237000.0
+1640,Mercedes-Benz,Sprinter,2007,Diésel,2,Manual,2.5,Furgón,277500.0
+1641,Toyota,SW4,2017,Diésel,5,Automática,2.8,SUV,118588.0
+1642,Jeep,Renegade,2022,Nafta,5,Manual,1.8,SUV,111111.0
+1643,Fiat,Pulse,2022,Nafta,5,Automática,1.3,SUV,1000.0
+1644,Dodge,Journey,2017,Nafta,5,Automática,2.4,SUV,66700.0
+1645,Jeep,Renegade,2022,Nafta,5,Manual,1.8,SUV,1500.0
+1646,Jeep,Renegade,2022,Nafta,5,Manual,1.8,SUV,1000.0
+1647,Chevrolet,Onix plus,2020,Nafta,4,Manual,1.2,Sedán,40779.0
+1648,Volkswagen,Amarok,2021,Diésel,4,Automática,3.0,Pick-Up,47600.0
+1649,Volkswagen,Amarok,2022,Diésel,4,Automática,3.0,Pick-Up,1500.0
+1650,Toyota,Hilux,2000,Diésel,4,Manual,2.8,Pick-Up,360000.0
+1651,Toyota,Hilux,2021,Diésel,4,Manual,2.4,Pick-Up,9000.0
+1652,Volkswagen,Gol Trend,2015,Nafta,5,Manual,1.6,Hatchback,189000.0
+1653,Fiat,Cronos,2018,Nafta,4,Manual,1.3,Sedán,70000.0
+1654,Peugeot,5008,2014,Nafta,5,Manual,1.6,Monovolumen,157000.0
+1655,Peugeot,208,2022,Nafta,5,Manual,1.6,Hatchback,1001.0
+1656,Peugeot,3008,2019,Diésel,5,Automática,2.0,SUV,1001.0
+1657,Volkswagen,Amarok,2022,Diésel,4,Manual,2.0,Pick-Up,1010.0
+1658,Toyota,Hilux,2022,Diésel,4,Automática,2.8,Pick-Up,1800.0
+1659,Renault,ALASKAN,2021,Diésel,4,Manual,2.3,Pick-Up,4000.0
+1660,Chevrolet,Tracker,2019,Nafta,5,Manual,1.8,SUV,113759.0
+1661,Toyota,Hilux,2022,Diésel,4,Automática,2.8,Pick-Up,1200.0
+1662,Fiat,Toro,2016,Diésel,4,Automática,2.0,Pick-Up,82000.0
+1663,Fiat,Pulse,2022,Nafta,5,Automática,1.3,SUV,1000.0
+1664,Fiat,Toro,2021,Nafta,4,Automática,1.8,Pick-Up,1000.0
+1665,Mercedes-Benz,Sprinter,2018,Diésel,2,Manual,2.1,Furgón,27000.0
+1666,Ford,Focus III,2017,Nafta,5,Manual,1.6,Hatchback,84000.0
+1667,Audi,A5 Sportback,2012,Nafta,3,Manual,2.0,Hatchback,100000.0
+1668,Renault,Captur,2019,Nafta,5,Manual,2.0,SUV,41000.0
+1669,Toyota,Etios,2022,Nafta,5,Automática,1.5,Hatchback,512.0
+1670,Chevrolet,Onix,2016,Nafta,5,Automática,1.4,Hatchback,79000.0
+1671,Volkswagen,Vento,2015,Nafta,4,Automática,2.5,Sedán,165000.0
+1672,Fiat,Cronos,2023,Nafta,4,Automática,1.3,Sedán,5000.0
+1673,Chevrolet,Tracker,2016,Nafta,5,Automática,1.8,SUV,35500.0
+1674,Volkswagen,Gol Trend,2017,Nafta,3,Manual,1.6,Hatchback,67000.0
+1675,Fiat,Cronos,2022,Nafta,4,Manual,1.3,Sedán,10000.0
+1676,Peugeot,408,2013,Nafta,4,Manual,2.0,Sedán,128442.0
+1677,BMW,X3,2017,Nafta,5,Automática,2.0,SUV,75800.0
+1678,Citroën,Berlingo,2021,Diésel,3,Manual,1.6,Furgón,41689.0
+1679,Fiat,Fiorino,2017,Nafta,3,Manual,1.4,Furgón,75000.0
+1680,Renault,Duster,2015,Nafta,5,Manual,1.6,SUV,61000.0
+1681,Toyota,Hilux,2014,Diésel,4,Manual,2.5,Pick-Up,153000.0
+1682,Toyota,Etios,2017,Nafta,5,Manual,1.5,Hatchback,81000.0
+1683,Volkswagen,Amarok,2017,Diésel,4,Automática,2.0,Pick-Up,133000.0
+1684,Chevrolet,Classic,2015,Nafta,4,Manual,1.4,Sedán,163142.0
+1685,Ford,Ka,2013,Nafta,3,Manual,1.6,Hatchback,28530.0
+1686,Jeep,Renegade,2023,Nafta,5,Automática,1.8,SUV,1800.0
+1687,Fiat,Toro,2020,Diésel,4,Automática,2.0,Pick-Up,60000.0
+1688,Honda,Fit,2017,Nafta,5,Automática,1.5,Hatchback,94451.0
+1689,Ford,Fiesta Kinetic Design,2014,Nafta,5,Manual,1.6,Hatchback,97000.0
+1690,Volkswagen,Suran,2014,Nafta,5,Manual,1.6,Monovolumen,82000.0
+1691,Chevrolet,Tracker,2015,Nafta,5,Manual,1.8,SUV,72211.0
+1692,Chevrolet,Tracker,2017,Nafta,5,Manual,1.8,SUV,88000.0
+1693,Audi,A1,2013,Nafta,3,Automática,1.4,Hatchback,69000.0
+1694,Renault,Duster,2013,Nafta,5,Manual,2.0,SUV,149400.0
+1695,Citroën,DS3,2015,Nafta,3,Manual,1.6,Hatchback,88000.0
+1696,Volkswagen,Polo,2018,Nafta,5,Automática,1.6,Hatchback,54000.0
+1697,Peugeot,408,2015,Nafta/GNC,4,Manual,2.0,Sedán,157000.0
+1698,Chevrolet,Tracker,2013,Nafta,5,Manual,1.8,SUV,87600.0
+1699,Jeep,Wrangler,2018,Nafta,3,Automática,3.6,SUV,31500.0
+1700,Peugeot,208,2023,Nafta,5,Manual,1.6,Hatchback,1000.0
+1701,Jeep,Compass,2019,Nafta,5,Automática,2.4,SUV,58000.0
+1702,Ford,Ecosport,2020,Nafta,5,Manual,1.5,SUV,26300.0
+1703,Fiat,Mobi,2018,Nafta,5,Manual,1.0,Hatchback,29500.0
+1704,Peugeot,Partner,2014,Diésel,3,Manual,1.6,Furgón,167000.0
+1705,Ford,Ka,2013,Nafta,3,Manual,1.0,Hatchback,100000.0
+1706,Jeep,Renegade,2019,Nafta,5,Automática,1.8,SUV,39000.0
+1707,Ford,Focus III,2017,Nafta,5,Automática,2.0,Hatchback,136000.0
+1708,Volkswagen,Golf,2015,Nafta,5,Automática,1.4,Hatchback,149000.0
+1709,Audi,A1,2013,Nafta,3,Automática,1.4,Hatchback,75000.0
+1710,Volkswagen,Gol Trend,2019,Nafta,5,Manual,1.6,Hatchback,50000.0
+1711,Nissan,Kicks,2018,Nafta,5,Automática,1.6,Hatchback,89000.0
+1712,Volkswagen,Tiguan Allspace,2019,Nafta,5,Automática,1.4,SUV,50000.0
+1713,Nissan,Kicks,2019,Nafta,5,Manual,1.6,Hatchback,95000.0
+1714,Citroën,C3 Picasso,2013,Nafta,5,Manual,1.6,Hatchback,80000.0
+1715,Audi,A3,2013,Nafta,5,Manual,1.4,Hatchback,113200.0
+1716,Fiat,Toro,2020,Diésel,4,Automática,2.0,Pick-Up,32000.0
+1717,Jeep,Compass,2019,Nafta,5,Automática,2.4,SUV,58423.0
+1718,Volkswagen,Golf,2016,Nafta,5,Manual,1.4,Hatchback,103000.0
+1719,Chevrolet,Agile,2011,Nafta,5,Manual,1.4,Hatchback,123000.0
+1720,Chevrolet,Tracker,2019,Nafta,5,Manual,1.8,SUV,63000.0
+1721,Chevrolet,Tracker,2013,Nafta,5,Manual,1.8,SUV,100000.0
+1722,Volkswagen,Golf,2013,Nafta,5,Manual,2.0,Hatchback,61000.0
+1723,Peugeot,3008,2014,Nafta,5,Manual,1.6,Monovolumen,94358.0
+1724,Toyota,SW4,2022,Diésel,5,Automática,2.8,SUV,42000.0
+1725,Toyota,Hilux,2021,Diésel,4,Manual,2.8,Pick-Up,54000.0
+1726,Ford,Fiesta Kinetic Design,2015,Nafta,5,Manual,1.6,Hatchback,115120.0
+1727,DS,DS3,2016,Nafta,3,Manual,1.6,Hatchback,77600.0
+1728,Peugeot,2008,2017,Nafta,5,Automática,1.6,SUV,89400.0
+1729,Volkswagen,Polo,2018,Nafta,5,Manual,1.6,Hatchback,53500.0
+1730,Toyota,Corolla,2012,Nafta,4,Manual,1.8,Sedán,128500.0
+1731,Peugeot,308,2017,Diésel,5,Manual,1.6,Hatchback,147000.0
+1732,Toyota,SW4,2022,Diésel,5,Automática,2.8,SUV,44200.0
+1733,Volkswagen,Amarok,2016,Diésel,4,Manual,2.0,Pick-Up,157000.0
+1734,Peugeot,308,2012,Nafta,5,Manual,2.0,Hatchback,120000.0
+1735,BMW,X1,2017,Nafta,5,Manual,2.0,SUV,85000.0
+1736,Citroën,Xsara Picasso,2011,Nafta,5,Manual,2.0,Monovolumen,230000.0
+1737,Renault,Sandero Stepway,2022,Nafta,5,Manual,1.6,Hatchback,1111.0
+1738,Citroën,C4 Cactus,2019,Nafta,5,Manual,1.6,SUV,54508.0
+1739,Citroën,Aircross,2019,Nafta,5,Manual,1.6,Hatchback,50000.0
+1740,Toyota,Etios,2022,Nafta,5,Manual,1.5,Hatchback,3000.0
+1741,Toyota,SW4,2022,Diésel,5,Automática,2.8,SUV,41000.0
+1742,Peugeot,208,2018,Nafta,5,Manual,1.6,Hatchback,19800.0
+1743,Fiat,500,2012,Nafta,3,Manual,1.4,Hatchback,146000.0
+1744,Toyota,Etios,2022,Nafta,4,Manual,1.5,Sedán,800.0
+1745,Ford,Ka,2019,Nafta,5,Manual,1.5,Hatchback,73000.0
+1746,Toyota,Etios,2022,Nafta,5,Automática,1.5,Hatchback,1111.0
+1747,Nissan,March,2016,Nafta,5,Manual,1.6,Hatchback,87000.0
+1748,Toyota,SW4,2022,Diésel,5,Automática,2.8,SUV,44100.0
+1749,Volkswagen,Golf,2018,Nafta,5,Automática,1.4,Hatchback,77000.0
+1750,Peugeot,208,2018,Nafta,5,Manual,1.6,Hatchback,55000.0
+1752,Hyundai,Tucson,2013,Nafta,5,Automática,2.0,SUV,221000.0
+1753,Peugeot,308,2014,Nafta,5,Manual,1.6,Hatchback,74901.0
+1754,Chevrolet,Cruze,2018,Nafta,4,Manual,1.4,Sedán,87000.0
+1755,RAM,1500,2016,Nafta,4,Automática,5.7,Pick-Up,96000.0
+1756,Peugeot,2008,2018,Nafta,5,Manual,1.6,SUV,90000.0
+1757,Honda,HR-V,2017,Nafta,5,Automática,1.8,SUV,40000.0
+1758,BMW,Serie 3,2007,Nafta,2,Automática,3.0,Coupé,73000.0
+1759,Citroën,C3,2011,Nafta,5,Manual,1.6,Hatchback,157950.0
+1760,Renault,Duster,2018,Nafta,5,Manual,1.6,SUV,57000.0
+1761,Chevrolet,Tracker,2016,Nafta,5,Automática,1.8,SUV,73000.0
+1762,Toyota,Etios,2016,Nafta,4,Manual,1.5,Sedán,90000.0
+1763,Toyota,RAV4,2013,Nafta,5,Automática,2.4,SUV,145000.0
+1764,Renault,Kangoo,2015,Nafta/GNC,5,Manual,1.6,Furgón,139000.0
+1765,Fiat,Fiorino,2017,Nafta/GNC,3,Manual,1.4,Furgón,74000.0
+1766,Renault,Duster,2012,Nafta,5,Manual,1.6,SUV,105000.0
+1767,Citroën,C5 Aircross,2022,Nafta,5,Automática,1.6,SUV,1111.0
+1768,Chevrolet,Classic,2016,Nafta/GNC,4,Manual,1.4,Sedán,79000.0
+1769,Volkswagen,Gol Trend,2011,Nafta,5,Manual,1.6,Hatchback,90000.0
+1770,Renault,Sandero Stepway,2018,Nafta,5,Manual,1.6,Hatchback,61000.0
+1771,Chevrolet,Tracker,2017,Nafta,5,Manual,1.8,SUV,110754.0
+1772,Ford,Fiesta Kinetic Design,2016,Nafta,5,Manual,1.6,Hatchback,72700.0
+1773,Kia,Sportage,2009,Diésel,5,Manual,2.0,SUV,144637.0
+1774,Toyota,Hilux,2022,Diésel,4,Automática,2.8,Pick-Up,1000.0
+1775,Ford,Ranger,2021,Diésel,4,Automática,3.2,Pick-Up,24000.0
+1776,Peugeot,3008,2016,Diésel,5,Automática,2.0,Monovolumen,60000.0
+1777,Ford,Fiesta,2010,Nafta,4,Manual,1.6,Sedán,178000.0
+1778,Toyota,Corolla,2015,Nafta,4,Automática,1.8,Sedán,143000.0
+1779,Toyota,Corolla,2014,Nafta,4,Manual,1.8,Sedán,114405.0
+1780,Chevrolet,S10,2013,Diésel,4,Manual,2.8,Pick-Up,148500.0
+1781,Audi,A1,2018,Nafta,4,Automática,1.4,Hatchback,87000.0
+1782,Volkswagen,Up!,2015,Nafta,3,Manual,1.0,Hatchback,92000.0
+1783,Fiat,500,2012,Nafta,3,Manual,1.4,Hatchback,92000.0
+1784,Peugeot,3008,2010,Nafta,5,Manual,1.6,Monovolumen,124000.0
+1785,Ford,Ecosport,2017,Nafta,5,Manual,1.5,SUV,66350.0
+1786,Volkswagen,Bora,2014,Nafta,4,Automática,1.8,Sedán,55000.0
+1787,Toyota,Hilux,2020,Diésel,4,Automática,2.8,Pick-Up,80000.0
+1788,Fiat,Argo,2019,Nafta,5,Manual,1.3,Hatchback,54000.0
+1789,Peugeot,208,2017,Nafta,5,Manual,1.6,Hatchback,89000.0
+1790,Volkswagen,Passat,2013,Nafta,4,Automática,2.0,Sedán,80000.0
+1791,Ford,Transit,2022,Diésel,2,Manual,2.2,Furgón,111111.0
+1792,Hyundai,Tucson,2018,Nafta,5,Manual,2.0,SUV,70000.0
+1793,Renault,Duster Oroch,2016,Nafta,4,Manual,2.0,SUV,141664.0
+1794,Volkswagen,Vento,2014,Nafta,4,Manual,2.5,Sedán,109000.0
+1795,Volkswagen,Amarok,2018,Diésel,4,Automática,3.0,Pick-Up,58000.0
+1796,Fiat,Cronos,2019,Nafta,4,Manual,1.3,Sedán,63000.0
+1797,Peugeot,207,2013,Nafta,3,Manual,1.4,Hatchback,137000.0
+1798,Mercedes-Benz,Clase GLB,2022,Nafta,5,Automática,2.0,SUV,1111.0
+1799,Fiat,Fiorino,2022,Nafta,3,Manual,1.4,Furgón,1000.0
+1800,Kia,Sportage,2017,Diésel,5,Manual,2.0,SUV,84200.0
+1801,Volkswagen,Amarok,2015,Diésel,4,Manual,2.0,Pick-Up,128000.0
+1802,Toyota,Hilux,2019,Diésel,4,Manual,2.8,Pick-Up,10000.0
+1803,BMW,Serie 3,2012,Nafta,2,Manual,3.0,Coupé,100000.0
+1804,Volkswagen,Amarok,2021,Diésel,4,Automática,3.0,Pick-Up,70199.0
+1805,Renault,Kwid,2019,Nafta,5,Manual,1.0,Hatchback,38974.0
+1806,Renault,Kwid,2019,Nafta,5,Manual,1.0,Hatchback,38974.0
+1807,Volkswagen,Bora,2007,Nafta,4,Manual,2.0,Sedán,120000.0
