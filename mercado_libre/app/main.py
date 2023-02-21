@@ -16,8 +16,8 @@ st.markdown(
 )
 
 # Add the image header to the sidebar
-#image = 'car_price_logo.jpg'
-#st.sidebar.image(image, use_column_width=True)
+image = 'car_price_logo.jpg'
+st.sidebar.image(image, use_column_width=True)
 
 
 selected = option_menu(None, ["New Car", "Used Car"], 
