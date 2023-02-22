@@ -18,6 +18,7 @@ st.markdown(
 
 # Add the image header to the sidebar
 image = Image.open("car_price_logo.jpg")
+
 st.sidebar.image(image, use_column_width=False)
 
 
