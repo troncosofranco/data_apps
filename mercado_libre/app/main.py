@@ -2,6 +2,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 from pages.new_page import new_page
 from pages.used_page import used_page
+from PIL import Image
 
 st.markdown(
     """
@@ -16,8 +17,8 @@ st.markdown(
 )
 
 # Add the image header to the sidebar
-image = 'car_price_logo.jpg'
-st.sidebar.image(image, use_column_width=True)
+image = Image.open('car_price_logo.jpg')
+st.sidebar.image(image, use_column_width=False)
 
 
 selected = option_menu(None, ["New Car", "Used Car"], 
