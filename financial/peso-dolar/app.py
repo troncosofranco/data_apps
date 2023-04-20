@@ -9,10 +9,10 @@ from prophet import Prophet
 from prophet.plot import plot_plotly
 
 #Head
-st.title('Dólar futuro (U$d)')
+st.title('Dollar vs Argentine Peso')
 image = Image.open("logo_dólar.jpg")
 st.image(image, use_column_width=True)
-#Data updated to 21/7/2022 from https://www.ambito.com/contenidos/
+#Data updated to 20/4/2022 from https://www.ambito.com/contenidos/
 
 
 #Define stocks
@@ -20,11 +20,11 @@ stocks = ('Dólar Blue','Dólar Oficial', "CCL", "Dólar MEP")
 selected_stock = st.sidebar.selectbox('Dataset prediction', stocks)
 buy_sell = ['Compra', "Venta"]
 operation = st.sidebar.radio("Operación", buy_sell)
-start = st.sidebar.date_input("Desde",)
-end = st.sidebar.date_input("Hasta",)
+start = st.sidebar.date_input("From",)
+end = st.sidebar.date_input("To",)
 
 #Define prediction period
-n_months = st.slider('Semanas de predicción', 1, 12)
+n_months = st.slider('Weeks forecast', 1, 12)
 period = n_months * 7
 
 
@@ -67,7 +67,7 @@ def price_plot():
 
 #Density function
 def density_plot():
-  st.write('Densidad de datos 📊...Cuantas veces se repite el valor en el intervalo de tiempo')
+  st.write('Data density 📊...number of repetitions of the value in the time interval')
   fig, ax = plt.subplots(figsize=(15, 7))
   sns.distplot(df_filter[operation], ax=ax)
   st.set_option('deprecation.showPyplotGlobalUse', False)
@@ -104,13 +104,13 @@ def prediction():
 
 #Buttons
 #Plot button
-if st.button('Gráficar'):
-    st.header('Gráfica')
+if st.button('Plot'):
+    st.header('Plot')
     price_plot()
 
 #Density button
-if st.button('Densidad'):
-    st.header('Densidad')
+if st.button('Density Plot'):
+    st.header('Density Plot Plot')
     density_plot()
 
 #Boxplot button
@@ -119,6 +119,6 @@ if st.button('Boxplot Anual'):
     box_plot()
 
 #Prediction button
-if st.button('Predicción'):
-    st.header('Dólar vs pesos')
+if st.button('Predict Currency'):
+    st.header('Dollar vs Argentine Peso')
     prediction()
