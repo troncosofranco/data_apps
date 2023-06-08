@@ -20,7 +20,8 @@ st.write('------------')
 
 #2. Import dataset 
 # source:https://raw.githubusercontent.com/amankharwal/Website-data/master/CarPrice.csv
-df = pd.read_csv(r'\data.csv')
+df=pd.read_csv('data.csv')
+
 
 
 #3. Data overview
